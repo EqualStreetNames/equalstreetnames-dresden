@@ -13,5 +13,8 @@ If you want to replicate the EqualStreetNames project in your city, take a look 
 
 You can contribute to OpenStreetMap by adding the tag name:etymology:wikidata=\<wikidata id\>.
 
-## Helpful links
-Offical [street list](https://www.dresden.de/de/leben/stadtportrait/statistik/publikationen/strassenverzeichnis.php): 
+### Helpful links
+
+[Stadtwiki Dresden](https://www.stadtwikidd.de/wiki/Hauptseite) for detailed info of a street
+Offical [street list](https://www.dresden.de/de/leben/stadtportrait/statistik/publikationen/strassenverzeichnis.php)
+[List](https://de.wikipedia.org/wiki/Liste_der_nach_Personen_benannten_Stra%C3%9Fen_und_Pl%C3%A4tze_in_Dresden) in Wikipedia
