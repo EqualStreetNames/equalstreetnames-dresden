@@ -1,11 +1,28 @@
 name,source,gender,wikidata,type
+Alnpeckstraße,wikidata,,Q1486838,way
+"Am Beutlerpark",wikidata,,Q1641385;Q19835432,way
+"Am Lucknerpark",wikidata,,Q1873692,way
+Annenstraße,wikidata,,Q269656;Q566436,way
+Bernerstraße,wikidata,,Q15647274,way
+Brehmweg,wikidata,,Q67302038,way
+Bundschuhstraße,wikidata,,Q786772,way
+"Loschwitzer Brücke",wikidata,,Q8939,way
+"Pfaffendorfer Straße",wikidata,,Q2082080,way
+"Prager Straße",wikidata,,Q1085,relation+way
+Schloßplatz,wikidata,,Q167314,way
+Schloßstraße,wikidata,,Q167314,way
+Theaterplatz,wikidata,,Q127097;Q352,relation+way
+Trinitatisplatz,wikidata,,Q1343765,way
+Wasaplatz,wikidata,,Q210601;Q472635,way
+"Wiener Platz",wikidata,,Q1741,relation+way
 "1. Steinweg",,,,way
+8,,,,way
+10,,,,way
 14,,,,way
 18,,,,way
 19,,,,way
 "2 Sandy Hlls",,,,way
 "2. Steinweg",,,,way
-8,,,,way
 A,,,,way
 A-Weg,,,,way
 "Aachener Straße",,,,way
@@ -20,23 +37,11 @@ Akademiestraße,,,,way
 Akazienweg,,,,way
 Alaunplatz,,,,way
 Alaunstraße,,,,way
-Albert-Richter-Straße,,,,way
-Albert-Schweitzer-Straße,,,,way
-Albert-Venus-Weg,,,,way
 Albertbrücke,,,,way
-Albertstraße,,,,way
 Albrechtshöhe,,,,way
 Alemannenstraße,,,,way
-Alexander-Herzen-Straße,,,,way
-Alexander-Puschkin-Platz,,,,way
 Alexanderstraße,,,,way
-Alfred-Althus-Straße,,,,way
-Alfred-Darre-Weg,,,,way
-Alfred-Schmieder-Straße,,,,way
-Alfred-Thiele-Straße,,,,way
 Alleegasse,,,,way
-Alnpeckstraße,,,,way
-Alojs-Andricki-Straße,,,,way
 Alpenstraße,,,,way
 Alsenstraße,,,,way
 "Alt-Leuteritzer Ring",,,,way
@@ -132,7 +137,6 @@ Altwölfnitz,,,,way
 "Am Bauernbusch",,,,way
 "Am Berg",,,,way
 "Am Bergblick",,,,way
-"Am Beutlerpark",,,,way
 "Am Biedersberg",,,,way
 "Am Birkenwäldchen",,,,way
 "Am Bramschkontor",,,,way
@@ -239,7 +243,6 @@ Altwölfnitz,,,,way
 "Am Leutewitzer Park",,,,way
 "Am Lindenberg",,,,way
 "Am Lockwitzbach",,,,way
-"Am Lucknerpark",,,,way
 "Am Luftbad",,,,way
 "Am Lugaer Graben",,,,way
 "Am Marienbad",,,,way
@@ -352,9 +355,7 @@ Altwölfnitz,,,,way
 "Am Zschonergrund",,,,way
 "Am Zuckerhut",,,,way
 "Am Zwingerteich",,,,way
-Amalie-Dietrich-Platz,,,,way
 Amaryllenweg,,,,way
-Ammonstraße,,,,way
 Amselgrund,,,,way
 Amselsteg,,,,way
 Amselweg,,,,way
@@ -395,7 +396,6 @@ Amtsstraße,,,,way
 "An der Gärtnerei",,,,way
 "An der Heide",,,,way
 "An der Heilandskirche",,,,way
-"An der Herzogin Garten",,,,way
 "An der Höhe",,,,way
 "An der Hufe",,,,way
 "An der Huhle",,,,way
@@ -436,32 +436,12 @@ Amtsstraße,,,,way
 "An der Telle",,,,way
 "An der Wasserschöpfe",,,,way
 "An der Winkelwiese",,,,way
-Andersenstraße,,,,way
-Andreas-Hofer-Straße,,,,way
-Andreas-Schubert-Straße,,,,way
 Anemonenweg,,,,way
-Angelikastraße,,,,way
 Angelsteg,,,,way
 Ankerstraße,,,,way
-Anna-Angermann-Straße,,,,way
 "Annaberger Straße",,,,way
-Anne-Frank-Straße,,,,way
-Annenstraße,,,,way
-Anton-Graff-Straße,,,,way
-Anton-Weck-Straße,,,,way
-Antonin-Dvorak-Straße,,,,way
-Antonsplatz,,,,way
-Antonstraße,,,,way
-Anzengruberweg,,,,way
 Archivstraße,,,,way
 Arkonastraße,,,,way
-Arltstraße,,,,way
-Arndtstraße,,,,way
-Arno-Holz-Allee,,,,way
-Arno-Lade-Straße,,,,way
-Arno-Schellenberg-Straße,,,,way
-Arthur-Schloßmann-Weg,,,,way
-Arthur-Weineck-Straße,,,,way
 Aspichring,,,,way
 Asternweg,,,,way
 Auenstraße,,,,way
@@ -476,21 +456,13 @@ Auenweg,,,,way
 "Aufgang Lingnerschloß",,,,way
 "Aufstieg zur Ludensruh",,,,way
 "Augsburger Straße",,,,way
-August-Bebel-Straße,,,,way
-August-Böckstiegel-Straße,,,,way
-August-Röckel-Straße,,,,way
-August-Wagner-Straße,,,,way
-Auguste-Lazar-Straße,,,,way
-Augustinstraße,,,,way
 Augustusbergstraße,,,,way
 Augustusbrücke,,,,way
-Augustusstraße,,,,way
 Augustusweg,,,,way
 "Aussiger Straße",,,,way
 Ava-Maria-Steig,,,,way
 Azaleenweg,,,,way
 "Babisnauer Straße",,,,way
-Bachmannstraße,,,,way
 Bachstraße,,,,way
 Bachweg,,,,way
 Bäckergasse,,,,way
@@ -500,27 +472,19 @@ Badweg,,,,way
 Bahnhäuser,,,,way
 Bahnhofstraße,,,,way
 Bahnstraße,,,,way
-Baluschekstraße,,,,way
 "Bamberger Straße",,,,way
 "Bannewitzer Straße",,,,way
 "Bansiner Straße",,,,way
-Barbarastraße,,,,way
-Barbarossaplatz,,,,way
 "Bärenburger Weg",,,,way
 "Bärenklauser Straße",,,,way
 "Bärensteiner Straße",,,,way
 Barfußweg,,,,way
-Barkhausenstraße,,,,way
-Barlachstraße,,,,way
 "Bärnsdorfer Straße",,,,way
-Barteldesplatz,,,,way
 "Bärwalder Straße",,,,way
 Bärwiesenweg,,,,way
-Basedowstraße,,,,way
 Basteiplatz,,,,way
 Basteistraße,,,,way
 Bastion,,,,way
-Baudissinstraße,,,,way
 Bauernweg,,,,way
 Bauhofstraße,,,,way
 Baumschulenweg,,,,way
@@ -531,52 +495,26 @@ Baumzeile,,,,way
 "Bautzner Straße",,,,way
 "Bayreuther Straße",,,,way
 "Bayrische Straße",,,,way
-Beckerstraße,,,,way
-Bedrich-Smetana-Straße,,,,way
 Beerenhut,,,,way
-Beethovenstraße,,,,way
-Behringstraße,,,,way
-Behrischstraße,,,,way
-Beilstraße,,,,way
 "Beim Gräbchen",,,,way
-Bellingrathstraße,,,,way
-Benzstraße,,,,way
 "Berbisdorfer Straße",,,,way
 "Berchtesgadener Straße",,,,way
 Bergahornweg,,,,way
 Bergbahnstraße,,,,way
-Bergerstraße,,,,way
 Bergfelderweg,,,,way
 Berggartenstraße,,,,way
 Berggasse,,,,way
 "Berggießhübler Straße",,,,way
 Berggut,,,,way
-Bergmannstraße,,,,way
 Bergquellweg,,,,way
 Bergsiedlung,,,,way
 Bergstraße,,,,way
 Bergweg,,,,way
 "Berliner Straße",,,,way
-Bernard-Shaw-Straße,,,,way
-Bernd-Aldenhoff-Straße,,,,way
-Bernerstraße,,,,way
-Bernhard-Kretzschmar-Straße,,,,way
-Bernhard-Wensch-Straße,,,,way
-Bernhard-von-Lindenau-Platz,,,,relation+way
-Bernhardstraße,,,,way
-Bertha-Dißmann-Straße,,,,way
 "Berthelsdorfer Weg",,,,way
-Bertheltstraße,,,,way
-Berthold-Haupt-Straße,,,,way
-Bertolt-Brecht-Allee,,,,way
 "Berzdorfer Straße",,,,way
 Beskidenstraße,,,,way
-Besselplatz,,,,way
-Bettinastraße,,,,way
-Bibrachstraße,,,,way
-Biedermannstraße,,,,way
 Bielatalweg,,,,way
-Bienertstraße,,,,way
 Bierweg,,,,way
 "Binger Straße",,,,way
 Binsenweg,,,,way
@@ -589,36 +527,21 @@ Birkenwinkel,,,,way
 "Birkigter Straße",,,,way
 "Birkwitzer Weg",,,,way
 Birnenweg,,,,way
-Bischof-Benno-Weg,,,,way
 Bischofsplatz,,,,way
 Bischofsweg,,,,way
 "Bischofswerder Straße",,,,way
-Bismarckplatz,,,,way
-Bismarckstraße,,,,way
 "Blankensteiner Straße",,,,way
 "Blasewitzer Straße",,,,way
-Blochmannstraße,,,,way
-Blüherstraße,,,,way
 Blumengäßchen,,,,way
 Blumenstraße,,,,way
 Blumenweg,,,,way
 Blümpenweg,,,,way
-Bobestraße,,,,way
-Bockemühlstraße,,,,way
-Böcklinstraße,,,,way
-Bodelschwinghstraße,,,,way
-Bodemerweg,,,,way
 "Bodenbacher Straße",,,,way
 "Boderitzer Straße",,,,way
-Böhmertstraße,,,,way
 "Böhmische Straße",,,,way
 Bohnenallee,,,,way
-Bolivarstraße,,,,way
-Böllstraße,,,,way
 "Boltenhagener Platz",,,,way
 "Boltenhagener Straße",,,,way
-Bonhoefferplatz,,,,way
-Bönischplatz,,,,way
 "Bonner Straße",,,,way
 "Bonnewitzer Weg",,,,way
 "Bornaer Weg",,,,way
@@ -632,16 +555,13 @@ Borsbergtrail,,,,way
 BorsiDH,,,,way
 "Borthener Straße",,,,way
 "Bosewitzer Straße",,,,way
-Böttgerstraße,,,,way
 "Boxberger Straße",,,,way
 "Boxdorfer Straße",,,,way
 "Boxdorfer Weg",,,,way
 "Bozener Weg",,,,way
 "Brabschützer Straße",,,,way
-Bramschstraße,,,,way
 Bramschweg,,,,way
 Brandstraße,,,,way
-Bräterstraße,,,,way
 Brauereistraße,,,,way
 Brauergasse,,,,way
 Bräuergasse,,,,way
@@ -649,12 +569,8 @@ Braugäßchen,,,,way
 "Braunschweiger Straße",,,,way
 "Braunsdorfer Straße",,,,way
 "Bregenzer Weg",,,,way
-Brehmweg,,,,way
 "Breitenauer Straße",,,,way
-Breitscheidstraße,,,,way
 "Bremer Straße",,,,way
-Brendelweg,,,,way
-Brentanostraße,,,,way
 Brettmühlenweg,,,,way
 "Briesnitzer Höhe",,,,way
 "Brixener Straße",,,,way
@@ -678,45 +594,31 @@ Brombeerweg,,,,way
 "Brücke 9",,,,way
 Brückenstraße,,,,way
 Brückenweg,,,,way
-Brucknerstraße,,,,way
-Brueghelstraße,,,,way
 "Brühler Straße",,,,way
-"Brühlsche Gasse",,,,way
 "Brühlsche Terrasse",,,,relation
 "Brühlscher Garten",,,,way
-Bruhmstraße,,,,way
 Brunnenstraße,,,,way
 Brunnenweg,,,,way
 "Brünner Straße",,,,way
-Bruno-Bürgel-Straße,,,,way
 Buchenhain,,,,way
 Buchenstraße,,,,way
 Buchenweg,,,,way
 "Buchholzer Straße",,,,way
-Buchnerstraße,,,,way
 Buchsbaumstraße,,,,way
 "Budapester Straße",,,,way
 "Bühlauer Schützensteig",,,,way
 "Bühlauer Straße",,,,way
 Buhnenstraße,,,,way
-Bulgakowstraße,,,,way
-Bünauplatz,,,,way
 Bünaustraße,,,,way
-Bundschuhstraße,,,,way
-Bunsenstraße,,,,way
 "Bunte Ecke",,,,way
-Burckhardtstraße,,,,way
 Burgenlandstraße,,,,way
 Bürgerstraße,,,,way
 Bürgerwiese,,,,way
 "Burgker Straße (1)",,,,way
-Burgkstraße,,,,way
-Burgsdorffstraße,,,,way
 "Burgstädteler Straße",,,,way
 Burgwartstraße,,,,way
 "Burkersdorfer Weg",,,,way
 Buschweg,,,,way
-Busmannstraße,,,,way
 Büttigstraße,,,,way
 Cäcilienstraße,,,,way
 Calberlastraße,,,,way
@@ -1166,7 +1068,6 @@ Gluckstraße,,,,way
 "Gmünder Straße",,,,way
 "Gnaschwitzer Straße",,,,way
 Gnomenstieg,,,,way
-Goetheallee,,,,way
 Goethestraße,,,,way
 Goetzplatz,,,,way
 "Gohliser Straße",,,,way
@@ -1893,7 +1794,6 @@ Lönsstraße,,,,way
 Lönsweg,,,,way
 Lortzingstraße,,,,way
 Löscherstraße,,,,way
-"Loschwitzer Brücke",,,,way
 "Loschwitzer Straße",,,,way
 "Loschwitzer Wiesenweg",,,,way
 Lößnitzblick,,,,way
@@ -2270,7 +2170,6 @@ Peter-Schmoll-Straße,,,,way
 Peter-Vischer-Straße,,,,way
 Petrikirchstraße,,,,way
 Pettenkoferstraße,,,,way
-"Pfaffendorfer Straße",,,,way
 Pfaffengrund,,,,way
 Pfaffensteinstraße,,,,way
 Pfarrgasse,,,,way
@@ -2319,7 +2218,6 @@ Postweg,,,,way
 "Potschappler Straße",,,,way
 Pötschkeweg,,,,way
 Potthoffstraße,,,,way
-"Prager Straße",,,,relation+way
 Prellerstraße,,,,way
 Preßgasse,,,,way
 Preußerstraße,,,,way
@@ -2580,8 +2478,6 @@ Schleiermacherstraße,,,,way
 "Schlesischer Platz",,,,relation+way
 "Schleswiger Straße",,,,way
 Schlömilchstraße,,,,way
-Schloßplatz,,,,way
-Schloßstraße,,,,way
 "Schlottwitzer Straße",,,,way
 Schlucht,,,,way
 Schlüterstraße,,,,way
@@ -2830,7 +2726,6 @@ Terrassenufer,,,,way
 Teutoburgstraße,,,,way
 "Tharandter Straße",,,,way
 Thäterstraße,,,,way
-Theaterplatz,,,,relation+way
 Theaterstraße,,,,way
 Theilestraße,,,,way
 "Theisewitzer Straße",,,,way
@@ -2888,7 +2783,6 @@ Treidlerstraße,,,,way
 Trentzschweg,,,,way
 "Trienter Straße",,,,way
 Trieskestraße,,,,way
-Trinitatisplatz,,,,way
 Trobischstraße,,,,way
 Trompeterstraße,,,,way
 "Tronitzer Straße",,,,way
@@ -2999,7 +2893,6 @@ Wanderweg,,,,way
 "Warnemünder Straße",,,,way
 Wartburgstraße,,,,way
 "Warthaer Straße",,,,way
-Wasaplatz,,,,way
 Wasastraße,,,,way
 Washingtonstraße,,,,way
 Wasserweg,,,,way
@@ -3062,7 +2955,6 @@ Weststraße,,,,way
 Wettiner-Steig,,,,way
 Wieckestraße,,,,way
 Wielandstraße,,,,way
-"Wiener Platz",,,,relation+way
 "Wiener Straße",,,,way
 "Wiesbadener Straße",,,,way
 Wiesensteig,,,,way
