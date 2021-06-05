@@ -1,20 +1,20 @@
 type,id,name,gender,person,description
-way,5039084,Adolfstraße,M,Adolf Franze,Gutsbesitzer und Gemeinderat in Kaditz
-way,4863079,Augustinstraße,M,Karl Gottlob Augustin,Stifter und Wohltäter in Kleinzschachwitz *1800 †1870
-way,23612595,Bachmannstraße,M,Paul Bachmann,Sanatoriumsdirektor in Bühlau *1871 †1923
-way,30130206,Barteldesplatz,M,Karl Louis Barteldes,Gemeinderatsmitglied und Stifter in Blasewitz *1821 †1880
-way,5009675,Beckerstraße,M,Karl Friedrich Wilhelm Becker,Gemeinde- und Schulvorstand in Rähnitz †1901
-way,5120824,Beilstraße,F,Eva Rosine Beil,Stifterin und Wohltäterin in Gruna *1822 †1897
-way,52142863,Beilstraße,F,Eva Rosine Beil,Stifterin und Wohltäterin in Gruna *1822 †1897
-way,52142866,Beilstraße,F,Eva Rosine Beil,Stifterin und Wohltäterin in Gruna *1822 †1897
-way,52173970,Beilstraße,F,Eva Rosine Beil,Stifterin und Wohltäterin in Gruna *1822 †1897
-way,52173967,Beilstraße,F,Eva Rosine Beil,Stifterin und Wohltäterin in Gruna *1822 †1897
-way,9791878,Bergerstraße,M,Johann Carl Berger,Gemeindevorstand in Langebrückvon 1851 bis 1889 (*1818 †1891)
-way,149940486,Bibrachstraße,M,Franz Bibrach,Stadtrat in Dresden - Wohltäter und Stifter †1465
-way,243583695,Bibrachstraße,M,Franz Bibrach,Stadtrat in Dresden - Wohltäter und Stifter †1465
-way,27692909,Bobestraße,M,Friedrich Hermann Bobe,Steingutarbeiter - Mitbegründer und Vorsitzenderdes Konsumvereins Pieschen *1860 †1925
-way,145178848,Bruhmstraße,M,Theodor Wilhelm Bruhm,Forstmeister in Langebrück *1811 †1886
-way,145178850,Bruhmstraße,M,Theodor Wilhelm Bruhm,Forstmeister in Langebrück *1811 †1886
-way,145178851,Bruhmstraße,M,Theodor Wilhelm Bruhm,Forstmeister in Langebrück *1811 †1886
-way,4516853,Burckhardtstraße,M,TGottlob Samuel Burckhardt,Kürschnermeister und Stadtverordneterin Dresden *1784 †1849
-way,XXX,Büttigstraße,M,Wilhelm Büttig und Ernst Leberecht Büttig,Stifter in Nickern - Wilhelm Büttig *1809 †1879
+way,5120824,Beilstraße,F,"Eva Rosine Beil","Stifterin und Wohltäterin in Gruna *1822 †1897"
+way,52142863,Beilstraße,F,"Eva Rosine Beil","Stifterin und Wohltäterin in Gruna *1822 †1897"
+way,52142866,Beilstraße,F,"Eva Rosine Beil","Stifterin und Wohltäterin in Gruna *1822 †1897"
+way,52173967,Beilstraße,F,"Eva Rosine Beil","Stifterin und Wohltäterin in Gruna *1822 †1897"
+way,52173970,Beilstraße,F,"Eva Rosine Beil","Stifterin und Wohltäterin in Gruna *1822 †1897"
+way,5039084,Adolfstraße,M,"Adolf Franze","Gutsbesitzer und Gemeinderat in Kaditz"
+way,4863079,Augustinstraße,M,"Karl Gottlob Augustin","Stifter und Wohltäter in Kleinzschachwitz *1800 †1870"
+way,23612595,Bachmannstraße,M,"Paul Bachmann","Sanatoriumsdirektor in Bühlau *1871 †1923"
+way,30130206,Barteldesplatz,M,"Karl Louis Barteldes","Gemeinderatsmitglied und Stifter in Blasewitz *1821 †1880"
+way,5009675,Beckerstraße,M,"Karl Friedrich Wilhelm Becker","Gemeinde- und Schulvorstand in Rähnitz †1901"
+way,9791878,Bergerstraße,M,"Johann Carl Berger","Gemeindevorstand in Langebrückvon 1851 bis 1889 (*1818 †1891)"
+way,149940486,Bibrachstraße,M,"Franz Bibrach","Stadtrat in Dresden - Wohltäter und Stifter †1465"
+way,243583695,Bibrachstraße,M,"Franz Bibrach","Stadtrat in Dresden - Wohltäter und Stifter †1465"
+way,27692909,Bobestraße,M,"Friedrich Hermann Bobe","Steingutarbeiter - Mitbegründer und Vorsitzenderdes Konsumvereins Pieschen *1860 †1925"
+way,145178848,Bruhmstraße,M,"Theodor Wilhelm Bruhm","Forstmeister in Langebrück *1811 †1886"
+way,145178850,Bruhmstraße,M,"Theodor Wilhelm Bruhm","Forstmeister in Langebrück *1811 †1886"
+way,145178851,Bruhmstraße,M,"Theodor Wilhelm Bruhm","Forstmeister in Langebrück *1811 †1886"
+way,4516853,Burckhardtstraße,M,"TGottlob Samuel Burckhardt","Kürschnermeister und Stadtverordneterin Dresden *1784 †1849"
+way,23799128,Büttigstraße,M,"Wilhelm Büttig und Ernst Leberecht Büttig","Stifter in Nickern - Wilhelm Büttig *1809 †1879"
