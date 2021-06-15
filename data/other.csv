@@ -17,12 +17,12 @@ Trinitatisplatz,wikidata,,Q1343765,way
 Wasaplatz,wikidata,,Q210601;Q472635,way
 "Wiener Platz",wikidata,,Q1741,relation+way
 "1. Steinweg",,,,way
-8,,,,way
 10,,,,way
+"2 Sandy Hlls",,,,way
+8,,,,way
 14,,,,way
 18,,,,way
 19,,,,way
-"2 Sandy Hlls",,,,way
 "2. Steinweg",,,,way
 A,,,,way
 A-Weg,,,,way
@@ -702,6 +702,7 @@ Eichgartenweg,,,,way
 Eichhörnchenweg,,,,way
 Eichigtweg,,,,way
 Eichstraße,,,,way
+Eichweg,,,,way
 Eifelweg,,,,way
 Eigenheimberg,,,,way
 Eigenheimring,,,,way
@@ -1036,42 +1037,16 @@ Herbststraße,,,,way
 Herderbrücke,,,,way
 Herkulesallee,,,,way
 Herkulesstraße,,,,way
-Hermann-Conradi-Straße,,,,way
-Hermann-Glöckner-Straße,,,,way
-Hermann-Große-Straße,,,,way
 Hermann-Hesse-Straße,,,,way
-Hermann-Krone-Straße,,,,way
-Hermann-Löns-Straße,,,,way
-Hermann-Mende-Straße,,,,way
-Hermann-Michel-Straße,,,,way
-Hermann-Prell-Straße,,,,way
-Hermann-Reichelt-Straße,,,,way
-Hermann-Schmitt-Platz,,,,way
-Hermann-Seidel-Straße,,,,way
-Hermann-Tögel-Weg,,,,way
-Hermann-Vogel-Straße,,,,way
 "Hermannstädter Straße",,,,way
 Hermannstraße,,,,way
 "Hermsdorfer Allee",,,,way
 "Hermsdorfer Straße",,,,way
-Heroldstraße,,,,way
 Herrenbergstraße,,,,way
-Herschelstraße,,,,way
 "Hersfelder Straße",,,,way
-Hertha-Lindner-Straße,,,,way
-Hertzstraße,,,,way
-Herweghstraße,,,,way
 "Herzberger Straße",,,,way
 "Herzogswalder Straße",,,,way
-Hettnerstraße,,,,way
 "Hetzdorfer Straße",,,,way
-Heubnerstraße,,,,way
-Heydenreichweg,,,,way
-Heymelstraße,,,,way
-Heynahtsstraße,,,,way
-Hietzigstraße,,,,way
-Hilbertstraße,,,,way
-Hildebrandstraße,,,,way
 "Hildesheimer Straße",,,,way
 Himmelsleiter,,,,way
 "Hirschbacher Weg",,,,way
@@ -1080,7 +1055,6 @@ Hirschleite,,,,way
 Hirtenstraße,,,,way
 Hirtenweg,,,,way
 Hochlandstraße,,,,way
-Hochmannweg,,,,way
 Hochschulstraße,,,,way
 "Hochwasserschutzbecken Kaitzbach 2",,,,way
 "Höckendorfer Weg",,,,way
@@ -1099,7 +1073,6 @@ Hofwiesenstraße,,,,way
 "Hohendölzschener Straße",,,,way
 Hohenplauen,,,,way
 Höhenpromenade,,,,way
-Hohenthalplatz,,,,way
 Höhenweg,,,,way
 "Hoher Rand",,,,way
 "Hoher Steig",,,,way
@@ -1108,38 +1081,24 @@ Höhenweg,,,,way
 "Hohles Tor",,,,way
 Hohlweg,,,,way
 "Hohnsteiner Straße",,,,way
-Holbeinstraße,,,,way
-Hölderlinstraße,,,,way
 "Holsteiner Straße",,,,way
 Holunderweg,,,,way
 Holzgrund,,,,way
 Holzhofgasse,,,,way
-Homiliusstraße,,,,way
-Höntzschstraße,,,,way
 Hopfenweg,,,,way
 Hopfgartenstraße,,,,way
-Hörigstraße,,,,way
 Hörnchenweg,,,,way
 Hornweg,,,,way
 Hospitalstraße,,,,way
 "Hosterwitzer Straße",,,,way
-Hottenrothstraße,,,,way
 "Hoyerswerdaer Straße",,,,way
-Hubertusplatz,,,,way
 Hubertusstraße,,,,way
-Hüblerplatz,,,,way
 Hüblerstraße,,,,way
-Hübnerstraße,,,,way
 Hüfnerweg,,,,way
-Hugo-Bürkner-Straße,,,,way
-Hugo-Hickmann-Straße,,,,way
-Hugo-Junkers-Ring,,,,way
 "Hühndorfer Straße",,,,way
 "Hühndorfer Weg",,,,way
-Hülßestraße,,,,way
 "Hultschiner Straße",,,,way
 Hutbergstraße,,,,way
-Huttenstraße,,,,way
 Hüttenweg,,,,way
 Hyazintenweg,,,,way
 Igelpfad,,,,way
@@ -1147,8 +1106,6 @@ Igelpfad,,,,way
 "Ilmenauer Straße",,,,way
 "Im Stillen Winkel",,,,way
 Industriestraße,,,,way
-Ingeborg-Bachmann-Straße,,,,way
-Inger-Karén-Straße,,,,way
 "Innsbrucker Straße",,,,way
 Inselblick,,,,way
 Inselstraße,,,,way
@@ -1156,41 +1113,20 @@ Institutsgasse,,,,way
 Irisweg,,,,way
 "Ischler Straße",,,,way
 Isfriedstraße,,,,way
-Jacob-Winter-Platz,,,,way
-Jacobistraße,,,,way
 Jagdweg,,,,way
 JagdwegTrail,,,,way
 Jägerpark,,,,way
 Jägerstraße,,,,way
 Jahnstiege,,,,way
-Jahnstraße,,,,way
-Jakob-Weinheimer-Straße,,,,way
 Jakobsgasse,,,,way
 Jasminweg,,,,way
 "Jessener Straße",,,,way
 Jochhöh,,,,way
-Johann-Meyer-Straße,,,,way
-Johannes-Brahms-Straße,,,,way
-Johannes-Paul-Thilman-Straße,,,,way
 Johannesweg,,,,way
 "Johnsbacher Weg",,,,way
 "Jonsdorfer Straße",,,,way
-Jordanstraße,,,,way
-Josef-Hegenbarth-Weg,,,,way
-Josef-Herrmann-Straße,,,,way
-Josef-Moll-Straße,,,,way
-Joseph-Keilberth-Straße,,,,way
-Josephinenstraße,,,,way
 Jubiläumsstraße,,,,way
-Judeichstraße,,,,way
 Jüdenhof,,,,relation+way
-Julie-Salinger-Weg,,,,way
-Julius-Otto-Straße,,,,way
-Julius-Scholtz-Straße,,,,way
-Julius-Vahlteich-Straße,,,,way
-Junghansstraße,,,,way
-Jüngststraße,,,,way
-Justinenstraße,,,,way
 Kadenstraße,,,,way
 "Kaditzer Straße",,,,way
 Kahlebergstraße,,,,way
@@ -2820,7 +2756,6 @@ Zughübelstraße,,,,way
 "Zum Windkanal",,,,way
 "Zur Alten Ziegelei",,,,way
 "Zur Bachwiese",,,,way
-"Zur Bauernbrücke",,,,way
 "Zur Bleiche",,,,way
 "Zur Bockmühle",,,,way
 "Zur Eiche",,,,way
