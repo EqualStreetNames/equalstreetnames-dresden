@@ -7,6 +7,9 @@ Bernerstraße,wikidata,,Q15647274,way
 Brehmweg,wikidata,,Q67302038,way
 Bundschuhstraße,wikidata,,Q786772,way
 Grimmstraße,wikidata,,Q2793,way
+Kap-herr-Weg,wikidata,,Q1728288,way
+Kyawstraße,wikidata,,Q1794979,way
+"Landsberger Straße",wikidata,,Q10507,way
 "Loschwitzer Brücke",wikidata,,Q8939,way
 "Pfaffendorfer Straße",wikidata,,Q2082080,way
 "Prager Straße",wikidata,,Q1085,relation+way
@@ -1128,7 +1131,6 @@ Johannesweg,,,,way
 "Jonsdorfer Straße",,,,way
 Jubiläumsstraße,,,,way
 Jüdenhof,,,,relation+way
-Kadenstraße,,,,way
 "Kaditzer Straße",,,,way
 Kahlebergstraße,,,,way
 Kaitzbachweg,,,,way
@@ -1142,20 +1144,8 @@ Kamelienweg,,,,way
 Kameradenweg,,,,way
 Kamillenweg,,,,way
 Kanalweg,,,,way
-Kändlerstraße,,,,way
-Kantstraße,,,,way
 Kanzleigäßchen,,,,way
-Kap-herr-Weg,,,,way
 Kapellenweg,,,,way
-Karasstraße,,,,way
-Karcherallee,,,,way
-Karl-Gjellerup-Straße,,,,way
-Karl-Laux-Straße,,,,way
-Karl-Liebknecht-Straße,,,,way
-Karl-Marx-Straße,,,,way
-Karl-Roth-Straße,,,,way
-Karl-Schmidt-Weg,,,,way
-Karl-Stein-Straße,,,,way
 "Karlshagener Weg",,,,way
 "Karlsruher Straße",,,,way
 "Kärntner Weg",,,,way
@@ -1165,9 +1155,6 @@ Karschmühlenblick,,,,way
 Kastanienallee,,,,way
 Kastanienstraße,,,,way
 Kastanienweg,,,,way
-Katharinenstraße,,,,way
-Käthe-Kollwitz-Platz,,,,way
-Käthe-Kollwitz-Straße,,,,way
 Kathenweg,,,,way
 "Katholische Kirchgemeinde St. Petrus Dresden-Strehlen",,,,way
 Katzensprung,,,,way
@@ -1176,15 +1163,11 @@ Katzsteinstraße,,,,way
 "Kaufbacher Weg",,,,way
 "Kauschaer Straße",,,,way
 "Kautzscher Straße",,,,way
-Keglerstraße,,,,way
-Kellstraße,,,,way
-Keplerstraße,,,,way
 Keppgrund,,,,way
 "Keppgrund (SW)",,,,way
 Keppgrundstraße,,,,way
 Keppgrundweg,,,,way
 Kerbtälchen,,,,way
-Kerstingstraße,,,,way
 "Kesselsdorfer Straße",,,,way
 Keulenbergstraße,,,,way
 Kiefernstraße,,,,way
@@ -1204,11 +1187,8 @@ Kirschenstraße,,,,way
 Kirschweg,,,,way
 "Kitzbühler Straße",,,,way
 "Klagenfurter Straße",,,,way
-Klarastraße,,,,way
-Klaus-Groth-Straße,,,,way
 "Klausenburger Straße",,,,way
 "Klebaer Straße",,,,way
-Kleestraße,,,,way
 Kleiberweg,,,,way
 "Kleinborthener Straße",,,,way
 "Kleincarsdorfer Straße",,,,way
@@ -1226,35 +1206,23 @@ Kleinsiedlerweg,,,,way
 Kleinsteinstraße,,,,way
 "Kleinzschachwitzer Straße",,,,way
 "Kleinzschachwitzer Ufer",,,,way
-Kleiststraße,,,,way
-Klengelstraße,,,,way
-Klettestraße,,,,way
 "Klingenberger Straße",,,,way
-Klingerstraße,,,,way
-Klingestraße,,,,way
 "Klipphausener Straße",,,,way
-Klopstockstraße,,,,way
 Klosterteichplatz,,,,way
 "Klotzscher Berglehne",,,,way
 "Klotzscher Hauptstraße",,,,way
 "Klotzscher Straße",,,,way
 "Klotzscher Weg",,,,way
-Knappestraße,,,,way
 "Knappsdorfer Straße",,,,way
-Knöffelstraße,,,,way
-Knoopstraße,,,,way
 "Koblenzer Straße",,,,way
 Kohlbergstraße,,,,way
 Kohlenstraße,,,,way
-Köhlerstraße,,,,way
 Kohlgraben,,,,way
 "Kohlsdorfer Landstraße",,,,way
 "Kohlsdorfer Straße",,,,way
 "Kohlsdorfer Weg",,,,way
-Kolbestraße,,,,way
 "Kölner Straße",,,,way
 Koloniestraße,,,,way
-Kolpingstraße,,,,way
 "Königsberger Straße",,,,way
 "Königsbrücker Landstraße",,,,way
 "Königsbrücker Platz",,,,way
@@ -1264,34 +1232,21 @@ Königswaldplatz,,,,way
 Königsweg,,,,way
 Konkordienplatz,,,,way
 Konkordienstraße,,,,way
-Könneritzstraße,,,,way
-Köpckestraße,,,,way
 Kopernikushügel,,,,way
-Kopernikusstraße,,,,way
 Korianderweg,,,,way
 Kornblumenweg,,,,way
-Körnerplatz,,,,way
-Körnerweg,,,,way
-Korolenkostraße,,,,way
 "Kötitzer Straße",,,,way
-Kotteweg,,,,way
 "Köttewitzer Straße",,,,way
 "Köttewitzer Weg",,,,way
 Kottmarstraße,,,,way
 "Kötzschenbrodaer Straße",,,,way
 "Kötzschenbroder Straße",,,,way
-Kotzschweg,,,,way
 "Kraftwerk Mitte",,,,way
 "Krainer Straße",,,,way
-Krantzstraße,,,,way
-Krausestraße,,,,way
 Krautgasse,,,,way
 "Krebser Straße",,,,way
 "Kreischaer Straße",,,,way
-Krenkelstraße,,,,way
 Kresseweg,,,,way
-Kretschmerstraße,,,,way
-Kreutzerstraße,,,,way
 Kreuzerbergstraße,,,,way
 "Kreuznacher Straße",,,,way
 Kreuzstraße,,,,way
@@ -1300,48 +1255,33 @@ Kreuzstraße,,,,way
 "Krokusweg II",,,,way
 Kronenstraße,,,,way
 "Kronstädter Platz",,,,way
-Krügerstraße,,,,way
 "Krumme Gasse",,,,way
 Küchenbrückenweg,,,,way
 "Küchenbrückenweg / Diebsteig",,,,way
 Kucksche,,,,way
 Kuckuckssteig,,,,way
 Kuckucksweg,,,,way
-Kügelgenstraße,,,,way
-Kügelgenweg,,,,way
 Kuhschwanz,,,,way
 Kümmelschänkenweg,,,,way
-Kunadstraße,,,,way
 Kunitzteichweg,,,,way
 Kunsthandwerkerpassagen,,,,way
 Kunsthandwerkpassagen,,,,way
 Kunsthofpassage,,,,way
 Kuntschberg,,,,way
-Küntzelmannstraße,,,,way
 "Kunzer Marktweg",,,,way
-Kunzstraße,,,,way
 Kurgartenstraße,,,,way
 Kurhausstraße,,,,way
 Kurparkstraße,,,,way
 "Kurt und Georg Löwinger Steig",,,,way
-Kurt-Beyer-Straße,,,,way
-Kurt-Böhme-Straße,,,,way
-Kurt-Exner-Weg,,,,way
-Kurt-Frölich-Straße,,,,way
-Kurt-Liebmann-Straße,,,,way
-Kurt-Tucholsky-Straße,,,,way
 "Kurze Reihe",,,,way
 "Kurze Straße",,,,way
 "Kurzer Schritt",,,,way
 "Kurzer Weg",,,,way
-Kyawstraße,,,,way
 Kyffhäuserstraße,,,,way
 Laasackerweg,,,,way
-Lahmannring,,,,way
 "Laibacher Straße",,,,way
 "Landauer Straße",,,,way
 Landhausstraße,,,,way
-"Landsberger Straße",,,,way
 Landsteig,,,,way
 "Lange Allee",,,,way
 "Lange Felder",,,,way
@@ -1352,16 +1292,12 @@ Landsteig,,,,way
 "Langenauer Weg",,,,way
 "Langer Weg",,,,way
 Langobardenstraße,,,,way
-Lannerstraße,,,,way
 Lärchenstraße,,,,way
-Lassallestraße,,,,way
 "Laubegaster Straße",,,,way
 "Laubegaster Ufer",,,,way
 "Laubegaster Weg",,,,way
-Laubestraße,,,,way
 "Lauensteiner Straße",,,,way
 Laurabrücke,,,,way
-Laurinstraße,,,,way
 "Lausaer Höhe",,,,way
 "Lausaer Kirchgasse",,,,way
 "Lausaer Straße",,,,way
@@ -1371,54 +1307,30 @@ Lauschigwiesenweg,,,,way
 "Lausitzer Straße",,,,way
 "Lauterbacher Straße",,,,way
 Leeraue,,,,way
-Lehmannstraße,,,,way
-Lehnertstraße,,,,way
 Lehngutstraße,,,,way
-Leiblstraße,,,,way
-Leibnizstraße,,,,way
 "Leipziger Straße",,,,way
 "Leisniger Platz",,,,way
 "Leisniger Straße",,,,way
 Leitenweg,,,,way
-Lenbachstraße,,,,way
-Lene-Glatzer-Straße,,,,way
 "Lengefelder Straße",,,,way
-Lennéplatz,,,,way
 Lennéstraße,,,,way
-Leon-Pohle-Straße,,,,way
-Leonardo-da-Vinci-Straße,,,,way
-Leonhard-Frank-Straße,,,,way
-Leonhardistraße,,,,way
 "Leppersdorfer Straße",,,,way
-Lessingstraße,,,,way
-Leßkestraße,,,,way
 "Leubener Straße",,,,way
 "Leubnitzer Höhe",,,,way
 "Leubnitzer Straße",,,,way
-Leuckartstraße,,,,way
-Leumerstraße,,,,way
-Leuschkestraße,,,,way
 "Leutewitzer Ring",,,,way
 "Leutewitzer Straße",,,,way
-Lewickistraße,,,,way
-Lichtenbergweg,,,,way
 "Liebenauer Straße",,,,way
 "Liebethaler Weg",,,,way
-Liebigstraße,,,,way
-Liebknechtstraße,,,,way
 "Liebstädter Straße",,,,way
 Liebstöckelweg,,,,way
 "Liegauer Straße",,,,way
-Liehrstraße,,,,way
-"Liesel-von-Schuch Straße",,,,way
 Ligusterweg,,,,way
 Liliengasse,,,,way
 Liliensteinblickweg,,,,way
 Liliensteinstraße,,,,way
-Lilienthalstraße,,,,way
 Lilienweg,,,,way
 "Limbacher Weg",,,,way
-Lindenaustraße,,,,way
 Lindengasse,,,,way
 Lindenheim,,,,way
 Lindenplatz,,,,way
@@ -1427,13 +1339,10 @@ Lindenweg,,,,way
 Lingnerallee,,,,way
 "Linzer Straße",,,,way
 "Lippersdorfer Weg",,,,way
-Lise-Meitner-Straße,,,,way
-Liststraße,,,,way
 "Löbauer Straße",,,,way
 "Löbtauer Brücke",,,,way
 "Löbtauer Straße",,,,way
 Lochmühlenweg,,,,way
-Lochnerstraße,,,,way
 Lockwitzaue,,,,way
 Lockwitzbachweg,,,,way
 "Lockwitzer Straße",,,,way
@@ -1441,14 +1350,9 @@ Lockwitzgrund,,,,way
 Lockwitztalstraße,,,,way
 "Lockwitztalstraße 7 A-F",,,,way
 "Lohmener Straße",,,,way
-Lohrmannstraße,,,,way
 "Lommatzscher Platz",,,,way
 "Lommatzscher Straße",,,,way
 "Lomnitzer Straße",,,,way
-Lönsstraße,,,,way
-Lönsweg,,,,way
-Lortzingstraße,,,,way
-Löscherstraße,,,,way
 "Loschwitzer Straße",,,,way
 "Loschwitzer Wiesenweg",,,,way
 Lößnitzblick,,,,way
@@ -1456,31 +1360,16 @@ Lößnitzstraße,,,,way
 Lößnitzweg,,,,way
 "Lothringer Straße",,,,way
 "Lothringer Weg",,,,way
-Lotte-Meyer-Straße,,,,way
 "Lotzdorfer Straße",,,,way
 Lotzebachstraße,,,,way
-Lotzestraße,,,,way
-Louis-Braille-Straße,,,,way
-Louis-Köhler-Weg,,,,way
-Louise-Seidler-Straße,,,,way
-Louisenstraße,,,,way
 "Löwenhainer Straße",,,,way
 Löwenstraße,,,,way
 "Lübbenauer Straße",,,,way
 "Lübecker Straße",,,,way
 "Lubminer Straße",,,,way
-Luboldtstraße,,,,way
 Luchbergstraße,,,,way
 "Lückendorfer Straße",,,,way
-Ludwig-Ermold-Straße,,,,way
-Ludwig-Hartmann-Straße,,,,way
-Ludwig-Jahn-Straße,,,,way
-Ludwig-Kossuth-Straße,,,,way
-Ludwig-Kugelmann-Straße,,,,way
 Ludwig-Küntzelmann-Platz,,,,way
-Ludwig-Renn-Allee,,,,way
-Ludwig-Richter-Straße,,,,way
-Ludwigstraße,,,,way
 Luftbadstraße,,,,way
 "Lugaer Platz",,,,way
 "Lugaer Straße",,,,way
