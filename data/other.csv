@@ -11,6 +11,7 @@ Kap-herr-Weg,wikidata,,Q1728288,way
 Kyawstraße,wikidata,,Q1794979,way
 "Landsberger Straße",wikidata,,Q10507,way
 "Loschwitzer Brücke",wikidata,,Q8939,way
+Münzmeisterstraße,wikidata,,Q15836089,way
 "Pfaffendorfer Straße",wikidata,,Q2082080,way
 "Prager Straße",wikidata,,Q1085,relation+way
 Schloßplatz,wikidata,,Q167314,way
@@ -21,12 +22,12 @@ Wasaplatz,wikidata,,Q210601;Q472635,way
 "Wiener Platz",wikidata,,Q1741,relation+way
 "1. Steinweg",,,,way
 10,,,,way
-"2 Sandy Hlls",,,,way
-8,,,,way
 14,,,,way
 18,,,,way
 19,,,,way
+"2 Sandy Hlls",,,,way
 "2. Steinweg",,,,way
+8,,,,way
 A,,,,way
 A-Weg,,,,way
 "Aachener Straße",,,,way
@@ -1392,69 +1393,31 @@ Malerstraße,,,,way
 Maltenstraße,,,,way
 Malterstraße,,,,way
 Malterweg,,,,way
-Manfred-Streubel-Weg,,,,way
-Manfred-von-Ardenne-Ring,,,,way
-Manitiusstraße,,,,way
 "Mannheimer Straße",,,,way
 "Mansfelder Straße",,,,way
 "Marburger Straße",,,,way
 Margeritenstraße,,,,way
 Margeritenweg,,,,way
-Maria-Cebotari-Straße,,,,way
-Maria-Kirch-Straße,,,,way
-Maria-Reiche-Straße,,,,way
-Marianne-Bruns-Straße,,,,way
-Marie-Hankel-Straße,,,,way
-Marie-Simon-Straße,,,,way
-Marie-Stritt-Straße,,,,way
-Marie-Wittich-Straße,,,,way
-Marienallee,,,,way
 "Marienberger Straße",,,,way
 Marienbrücke,,,,way
 Marienschachtweg,,,,way
-Marienstraße,,,,way
 "Markersbacher Weg",,,,way
 Markt,,,,way
 Marktweg,,,,way
 Markusplatz,,,,way
 Markusstraße,,,,way
-Marschnerstraße,,,,way
 "Marsdorfer Hauptstraße",,,,way
 "Marsdorfer Straße",,,,way
 "Marsdorfer Weg",,,,way
-Marta-Fraenkel-Straße,,,,way
-Martin-Andersen-Nexö-Straße,,,,way
-Martin-Luther-Platz,,,,way
-Martin-Luther-Ring,,,,way
 Martin-Luther-Straße,,,,way
-Martin-Opitz-Straße,,,,way
-Martin-Raschke-Straße,,,,way
 Martiniweg,,,,way
-Mary-Krebs-Straße,,,,way
-Mary-Wigman-Straße,,,,way
 Mastenweg,,,,way
-Maternistraße,,,,way
 Materniweg,,,,way
-Mathias-Oeder-Straße,,,,way
-Mathildenstraße,,,,way
 Maulbeerenstraße,,,,way
-Max-Grahl-Straße,,,,way
-Max-Hünig-Straße,,,,way
-Max-Klinger-Straße,,,,way
-Max-Kosler-Straße,,,,way
-Max-Liebermann-Straße,,,,way
-Max-Sachs-Straße,,,,way
-Max-Schwan-Straße,,,,way
-Max-Schwarze-Straße,,,,way
 "Maxener Straße",,,,way
-Maxie-Wander-Straße,,,,way
-Maxim-Gorki-Straße,,,,way
-Maxstraße,,,,way
-Maystraße,,,,way
 "Medinger Straße",,,,way
 "Medinger Weg",,,,way
 Meinhardtweg,,,,way
-Meinholdstraße,,,,way
 Meiselschachtweg,,,,way
 Meisengasse,,,,way
 Meisensteig,,,,way
@@ -1463,28 +1426,18 @@ Meisenweg,,,,way
 "Meißner Straße",,,,way
 Meixstraße,,,,way
 Meixweg,,,,way
-Melanchthonstraße,,,,way
-Melitta-Bentz-Straße,,,,way
-Melli-Beese-Straße,,,,way
 Menageriestraße,,,,way
-Mendelssohnallee,,,,way
-Mengsstraße,,,,way
 "Meraner Straße",,,,way
 "Merbitzer Ring",,,,way
 "Merbitzer Straße",,,,way
-Merianplatz,,,,way
 Meridianstraße,,,,way
 "Merseburger Straße",,,,way
-Meschwitzstraße,,,,way
 Messering,,,,way
 Meßweg,,,,way
 "Metzer Straße",,,,way
 "Meusegaster Straße",,,,way
 "Meußlitzer Straße",,,,way
-Michaelisstraße,,,,way
-Michelangelostraße,,,,way
 "Micktner Straße",,,,way
-Mildred-Scheel-Straße,,,,way
 "Milkeler Straße",,,,way
 "Miltitzer Straße",,,,way
 Mißbachweg,,,,way
@@ -1495,7 +1448,6 @@ Mittelweg,,,,way
 "Mobschatzer Straße",,,,way
 "Mockethaler Straße",,,,way
 "Mockritzer Straße",,,,way
-Mohnstraße,,,,way
 "Mohorner Straße",,,,way
 Mönchsholz,,,,way
 Moosleite,,,,way
@@ -1503,21 +1455,13 @@ MoosleitenTrail,,,,way
 Moosleitenweg,,,,way
 Moränenende,,,,way
 Mordgrundbrücke,,,,way
-Moreauweg,,,,way
 Morgenleite,,,,way
 Morgensonne,,,,way
-Mörikestraße,,,,way
 "Moritzburger Landstraße",,,,way
 "Moritzburger Platz",,,,way
 "Moritzburger Straße",,,,way
 "Moritzburger Weg",,,,way
-Moritzgasse,,,,way
 Moritzschachtstraße,,,,way
-Moritzstraße,,,,way
-Morseweg,,,,way
-Mosczinskystraße,,,,way
-Mosenstraße,,,,way
-Mozartstraße,,,,way
 "Mügelner Straße",,,,way
 "Mühlbacher Straße",,,,way
 Mühlenblick,,,,way
@@ -1530,25 +1474,19 @@ Mühlweg,,,,way
 Mühlwiesenweg,,,,way
 "Muldaer Straße",,,,way
 "Mülheimer Straße",,,,way
-Müller-Armack-Straße,,,,way
-Müller-Berset-Straße,,,,way
 Müllerbrunnenstraße,,,,way
 "Müllers Feldweg",,,,way
 "Münchner Platz",,,,way
 "Münchner Straße",,,,way
 Münzgasse,,,,way
-Münzmeisterstraße,,,,way
 Münzteichweg,,,,way
 "Nach dem Rainchen",,,,way
 "Nach dem Wirtschaftsweg",,,,way
 Nachtflügelweg,,,,way
-Nagelstraße,,,,way
 Narzissenhang,,,,way
 Narzissenweg,,,,way
 "Nassauer Weg",,,,way
 "Nasse Gasse",,,,way
-Nätherstraße,,,,way
-Naumannstraße,,,,way
 "Naundorfer Straße",,,,way
 "Naunhofer Weg",,,,way
 "Naußlitzer Straße",,,,way
@@ -1556,8 +1494,6 @@ Nelkenstraße,,,,way
 Nelkenweg,,,,way
 "Neschwitzer Straße",,,,way
 Nesselgrundweg,,,,way
-Nestroystraße,,,,way
-Neuberinstraße,,,,way
 "Neubühlauer Straße",,,,way
 Neuburgstädtel,,,,way
 "Neudecker Straße",,,,way
@@ -1581,8 +1517,6 @@ Neuostra,,,,way
 "Neustädter Markt",,,,relation+way
 "Nickerner Straße",,,,way
 "Nickerner Weg",,,,way
-Nicodéstraße,,,,way
-Nicolaistraße,,,,way
 "Niederauer Platz",,,,way
 "Niederauer Straße",,,,way
 Niedergraben,,,,way
@@ -1593,7 +1527,6 @@ Niedergraben,,,,way
 Niederwaldplatz,,,,way
 Niederwaldstraße,,,,way
 "Niederwarthaer Brücke",,,,way
-Nieritzstraße,,,,way
 Nixenweg,,,,way
 Nordstraße,,,,way
 Nordweg,,,,way
@@ -1624,13 +1557,10 @@ Oberonstraße,,,,way
 "Ockerwitzer Weg",,,,way
 Oderstraße,,,,way
 "Oederaner Straße",,,,way
-Oehmestraße,,,,way
-Oeserstraße,,,,way
 "Offenburger Straße",,,,way
 Ohlsche,,,,way
 "Olbernhauer Straße",,,,way
 "Olbersdorfer Straße",,,,way
-Olbrichtplatz,,,,way
 "Ölsaer Weg",,,,way
 Oltersteinweg,,,,way
 "Omsewitzer Grund",,,,way
@@ -1640,34 +1570,13 @@ Oltersteinweg,,,,way
 "Oppacher Straße",,,,way
 Orangeriestraße,,,,way
 "Oschatzer Straße",,,,way
-Oskar-Kokoschka-Straße,,,,way
-Oskar-Mai-Straße,,,,way
-Oskar-Maune-Straße,,,,way
-Oskar-Pletsch-Straße,,,,way
-Oskar-Röder-Straße,,,,way
-Oskar-Seyffert-Straße,,,,way
-Oskar-Zwintscher-Straße,,,,way
-Oskar-von-Miller-Straße,,,,way
-Oskarstraße,,,,way
 Osterbergstraße,,,,way
-Osterhausenstraße,,,,way
 "Österreicher Straße",,,,way
 Ostra-Allee,,,,way
 Ostra-Ufer,,,,way
 "Ostrauer Straße",,,,way
 "Ostritzer Straße",,,,way
 "Ottendorfer Straße",,,,way
-Otto-Altenkirch-Straße,,,,way
-Otto-Dittrich-Straße,,,,way
-Otto-Dix-Ring,,,,way
-Otto-Harzer-Straße,,,,way
-Otto-Ludwig-Straße,,,,way
-Otto-Mohr-Straße,,,,way
-Otto-Pilz-Straße,,,,way
-Otto-Reinhold-Weg,,,,way
-Otto-Schindler-Straße,,,,way
-Ottostraße,,,,way
-Overbeckstraße,,,,way
 "Oybiner Straße",,,,way
 Pabststraße,,,,way
 Palaisplatz,,,,relation+way
