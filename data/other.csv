@@ -12,6 +12,8 @@ Kyawstraße,wikidata,,Q1794979,way
 "Landsberger Straße",wikidata,,Q10507,way
 "Loschwitzer Brücke",wikidata,,Q8939,way
 Münzmeisterstraße,wikidata,,Q15836089,way
+Paul-Schwarze-Straße,wikidata,,Q66051597,way
+Peter-Schmoll-Straße,wikidata,,Q55018575,way
 "Pfaffendorfer Straße",wikidata,,Q2082080,way
 "Prager Straße",wikidata,,Q1085,relation+way
 Schloßplatz,wikidata,,Q167314,way
@@ -21,13 +23,13 @@ Trinitatisplatz,wikidata,,Q1343765,way
 Wasaplatz,wikidata,,Q210601;Q472635,way
 "Wiener Platz",wikidata,,Q1741,relation+way
 "1. Steinweg",,,,way
+8,,,,way
 10,,,,way
 14,,,,way
-"2. Steinweg",,,,way
-8,,,,way
 18,,,,way
 19,,,,way
 "2 Sandy Hlls",,,,way
+"2. Steinweg",,,,way
 A,,,,way
 A-Weg,,,,way
 "Aachener Straße",,,,way
@@ -218,7 +220,6 @@ Altwölfnitz,,,,way
 "Am Hornsberg",,,,way
 "Am Hügel",,,,way
 "Am Hutberg",,,,way
-"Am Ilschengraben",,,,way
 "Am Jägerpark",,,,way
 "Am Jochhöh",,,,way
 "Am Kaditzer Tännicht",,,,way
@@ -775,6 +776,7 @@ Felsenkellerstraße,,,,way
 Felsenweg,,,,way
 Ferdinandstraße,,,,way
 Fernsehturmstraße,,,,way
+"Festspielhaus Hellerau",,,,way
 Fichtenstraße,,,,way
 Finkensteig,,,,way
 Finkenweg,,,,way
@@ -1579,7 +1581,6 @@ Ostra-Ufer,,,,way
 "Ostritzer Straße",,,,way
 "Ottendorfer Straße",,,,way
 "Oybiner Straße",,,,way
-Pabststraße,,,,way
 Palaisplatz,,,,relation+way
 Palmstraße,,,,way
 Panoramaweg,,,,way
@@ -1588,22 +1589,14 @@ Pappelweg,,,,way
 "Pappritzer Straße",,,,way
 "Pappritzer Weg",,,,way
 "Papstdorfer Straße",,,,way
-Paracelsusstraße,,,,way
 Paradiesstraße,,,,way
 Parkstraße,,,,way
 Parkweg,,,,way
 Paschkystraße,,,,way
 "Passage Königstraße",,,,way
 "Passauer Straße",,,,way
-Pastor-Roller-Straße,,,,way
-Patrice-Lumumba-Straße,,,,way
 Paul-Breyer-Straße,,,,way
-Paul-Büttner-Straße,,,,way
-Paul-Gerhardt-Straße,,,,way
 Paul-Scholze-Weg,,,,way
-Paul-Schwarze-Straße,,,,way
-Paul-Wicke-Straße,,,,way
-Paul-Wiegler-Straße,,,,way
 Paulstraße,,,,way
 Paulusplatz,,,,way
 "Pennricher Feldrain",,,,way
@@ -1611,20 +1604,12 @@ Paulusplatz,,,,way
 "Pennricher Ring",,,,way
 "Pennricher Straße",,,,way
 "Pennricher Weg",,,,way
-Permoserstraße,,,,way
 Permoserweg,,,,way
-Perronstraße,,,,way
-Peschelstraße,,,,way
-Pestalozziplatz,,,,way
-Pestalozzistraße,,,,way
 "Pesterwitzer Schulweg",,,,way
 "Pesterwitzer Straße",,,,way
 "Pestitzer Straße",,,,way
 "Pestitzer Weg",,,,way
-Peter-Schmoll-Straße,,,,way
-Peter-Vischer-Straße,,,,way
 Petrikirchstraße,,,,way
-Pettenkoferstraße,,,,way
 Pfaffengrund,,,,way
 Pfaffensteinstraße,,,,way
 Pfarrgasse,,,,way
@@ -1643,7 +1628,6 @@ Pietzschstraße,,,,way
 "Pirnaer Straße",,,,way
 "Pirnaische Straße",,,,way
 "Pirnaischer Platz",,,,way
-Pisendelstraße,,,,way
 Planstraße,,,,way
 Plantagenweg,,,,way
 Platanenstraße,,,,way
@@ -1651,19 +1635,15 @@ Plattleite,,,,way
 "Platz des Friedens",,,,way
 "Plauenscher Ring",,,,way
 Plumpenbusch,,,,way
-Pochmannstraße,,,,way
 "Podemuser Hauptstraße",,,,way
 "Podemuser Ring",,,,way
 "Podemuser Straße",,,,way
 Podemusstraße,,,,way
 Poetenweg,,,,way
 Pohlandplatz,,,,way
-Pohlandstraße,,,,way
 "Pohrsdorfer Weg",,,,way
 Poisenweg,,,,way
-Polenzstraße,,,,way
 Polierstraße,,,,way
-Pöppelmannstraße,,,,way
 "Possendorfer Straße",,,,way
 "Postelwitzer Straße",,,,way
 Postgang,,,,way
@@ -1672,11 +1652,8 @@ Poststraße,,,,way
 Postweg,,,,way
 "Potschappler Straße",,,,way
 Pötschkeweg,,,,way
-Potthoffstraße,,,,way
-Prellerstraße,,,,way
 Preßgasse,,,,way
 Preußerstraße,,,,way
-Preußstraße,,,,way
 Prießnitzaue,,,,way
 Prießnitzgrundweg,,,,way
 Prießnitzstraße,,,,way
@@ -1684,9 +1661,6 @@ Primelweg,,,,way
 "Prisco Passage",,,,way
 Privatstraße,,,,way
 Privatweg,,,,way
-Prof.-Billroth-Straße,,,,way
-Professor-Ricker-Straße,,,,way
-Professor-von-Finck-Straße,,,,way
 "Prohliser Allee",,,,way
 "Prohliser Straße",,,,way
 Promenadenring,,,,way
@@ -1695,7 +1669,6 @@ Promnitztalstraße,,,,way
 Provianthofstraße,,,,way
 "Pulsnitzer Straße",,,,way
 "Putbuser Weg",,,,way
-Putjatinplatz,,,,way
 Putjatinstraße,,,,way
 Quandtstraße,,,,way
 Quantzweg,,,,way
@@ -1788,6 +1761,7 @@ Ritterstraße,,,,way
 Ritzenbergstraße,,,,way
 Robert-Berndt-Straße,,,,way
 Robert-Blum-Straße,,,,way
+Robert-Bosch-Ring,,,,way
 Robert-Diez-Straße,,,,way
 Robert-Koch-Straße,,,,way
 Robert-Matzke-Straße,,,,way
@@ -1861,7 +1835,6 @@ Rudolf-Walther-Straße,,,,way
 Rudolf-Zwintscher-Straße,,,,way
 Rudolfstraße,,,,way
 Rudolphweg,,,,way
-Rugestraße,,,,way
 RuinenDH,,,,way
 Rungestraße,,,,way
 "Ruppendorfer Weg",,,,way
@@ -2443,7 +2416,6 @@ Williamstraße,,,,way
 "Wilsdruffer Ring",,,,way
 "Wilsdruffer Straße",,,,way
 "Wilthener Straße",,,,way
-Winckelmannstraße,,,,way
 Wincklerstraße,,,,way
 Windbergstraße,,,,way
 Windmühlenstraße,,,,way
