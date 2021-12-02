@@ -23,13 +23,13 @@ Trinitatisplatz,wikidata,,Q1343765,way
 Wasaplatz,wikidata,,Q210601;Q472635,way
 "Wiener Platz",wikidata,,Q1741,relation+way
 "1. Steinweg",,,,way
-8,,,,way
-10,,,,way
 14,,,,way
 18,,,,way
 19,,,,way
 "2 Sandy Hlls",,,,way
 "2. Steinweg",,,,way
+8,,,,way
+10,,,,way
 A,,,,way
 A-Weg,,,,way
 "Aachener Straße",,,,way
@@ -135,6 +135,7 @@ Altwilschdorf,,,,way
 Altwölfnitz,,,,way
 "Am Acker",,,,way
 "Am Alten Bahndamm",,,,way
+"Am Alten Elbarm",,,,way
 "Am Altfrankener Park",,,,way
 "Am Anfang",,,,way
 "Am Anger",,,,way
@@ -651,7 +652,6 @@ Coventrystraße,,,,way
 "Cunewalder Straße",,,,way
 "Cunnersdorfer Straße",,,,way
 "Cunnersdorfer Weg",,,,way
-Dachsteinweg,,,,way
 Daheimweg,,,,way
 "Dahlener Straße",,,,way
 Dahlienweg,,,,way
@@ -1880,7 +1880,6 @@ Scharfensteinstraße,,,,way
 Schaufußstraße,,,,way
 Schaumbergerstraße,,,,way
 Schedlichstraße,,,,way
-Scheffelgasse,,,,way
 Scheidemantelstraße,,,,way
 "Schellerhauer Weg",,,,way
 Schelsberg,,,,way
@@ -1939,7 +1938,6 @@ Schreberstraße,,,,way
 Schreibergasse,,,,way
 Schroeterstraße,,,,way
 Schuchstraße,,,,way
-Schuhmachergasse,,,,way
 Schulberg,,,,way
 Schulgasse,,,,way
 Schulgutstraße,,,,way
@@ -2375,7 +2373,6 @@ Werkstraße,,,,way
 Werner-Hartmann-Straße,,,,way
 Wernerplatz,,,,way
 Wernerstraße,,,,way
-"Wernerstraße 26a-e",,,,way
 Westendring,,,,way
 Westendstraße,,,,way
 Weststraße,,,,way
