@@ -200,6 +200,7 @@ Christian-Morgenstern-Straße,wikidata,M,Q44652,way
 Christian-Sültze-Straße,wikidata,M,Q95243917,way
 Clausen-Dahl-Straße,wikidata,M,Q164735,way
 Clemens-Müller-Straße,wikidata,M,Q104519,way
+Collenbuschstraße,wikidata,M,Q94938228,way
 Columbusstraße,wikidata,M,Q7322,way
 Comeniusplatz,wikidata,M,Q12735,way
 Conertplatz,wikidata,M,Q1608136,way
@@ -207,6 +208,7 @@ Conrad-Felixmüller-Straße,wikidata,M,Q693095,way
 Conradstraße,wikidata,M,Q531805,way
 Corinthstraße,wikidata,M,Q157610,way
 Cornelius-Gurlitt-Straße,wikidata,M,Q78279,way
+Coselweg,csv+wikidata,M,Q17385389,way
 Cranachstraße,wikidata,M,Q191748,way
 Curt-Guratzsch-Straße,wikidata,M,Q94874923,way
 Curt-Querner-Straße,wikidata,M,Q896554,way
@@ -615,6 +617,7 @@ Paul-Büttner-Straße,wikidata,M,Q875701,way
 Paul-Gerhardt-Straße,wikidata,M,Q76331,way
 Paul-Wicke-Straße,wikidata,M,Q15839792,way
 Paul-Wiegler-Straße,wikidata,M,Q1747095,way
+Paulusplatz,wikidata,M,Q110279931,way
 Permoserstraße,wikidata,M,Q494782,way
 Perronstraße,wikidata,M,Q6372147,way
 Peschelstraße,wikidata,M,Q75904,way
@@ -627,6 +630,7 @@ Pfeifferhannsstraße,wikidata,M,Q1598478,way
 Pfotenhauerstraße,wikidata,M,Q2574471,way
 Pisendelstraße,wikidata,M,Q508635,way
 Pochmannstraße,wikidata,M,Q1371818,way
+Pohlandplatz,wikidata,M,Q23041790,way
 Pohlandstraße,wikidata,M,Q23041790,way
 Polenzstraße,wikidata,M,Q1914148,way
 Pöppelmannstraße,wikidata,M,Q62637,way
@@ -663,8 +667,6 @@ Burckhardtstraße,csv,M,,way
 Büttigstraße,csv,M,,way
 Calberlastraße,csv,M,,way
 Carl-Borisch-Straße,csv,M,,way
-Collenbuschstraße,csv,M,,way
-Coselweg,csv,M,,way
 Donathstraße,csv,M,,way
 Duckwitzstraße,csv,M,,way
 Eduard-Stübler-Straße,csv,M,,way

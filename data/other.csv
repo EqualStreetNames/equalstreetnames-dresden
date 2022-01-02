@@ -2,34 +2,38 @@ name,source,gender,wikidata,type
 Alnpeckstraße,wikidata,,Q1486838,way
 "Am Beutlerpark",wikidata,,Q1641385;Q19835432,way
 "Am Lucknerpark",wikidata,,Q1873692,way
+"An der Post",wikidata,,Q110197108,way
 Annenstraße,wikidata,,Q269656;Q566436,way
 Bernerstraße,wikidata,,Q15647274,way
+Blumenstraße,wikidata,,Q886167,way
 Brehmweg,wikidata,,Q67302038,way
 Bundschuhstraße,wikidata,,Q786772,way
+"Elsasser Straße",wikidata,,Q1142,way
 Grimmstraße,wikidata,,Q2793,way
 Kap-herr-Weg,wikidata,,Q1728288,way
 Kyawstraße,wikidata,,Q1794979,way
-"Landsberger Straße",wikidata,,Q10507,way
+"Landsberger Straße",wikidata,,Q494299,way
 "Loschwitzer Brücke",wikidata,,Q8939,way
 Münzmeisterstraße,wikidata,,Q15836089,way
 Paul-Schwarze-Straße,wikidata,,Q66051597,way
 Peter-Schmoll-Straße,wikidata,,Q55018575,way
 "Pfaffendorfer Straße",wikidata,,Q2082080,way
 "Prager Straße",wikidata,,Q1085,relation+way
+Rathausplatz,wikidata,,Q1980363,way
 Schloßplatz,wikidata,,Q167314,way
 Schloßstraße,wikidata,,Q167314,way
-Theaterplatz,wikidata,,Q127097;Q352,relation+way
+Theaterplatz,wikidata,,Q1718281;Q352,relation+way
 Trinitatisplatz,wikidata,,Q1343765,way
 Wasaplatz,wikidata,,Q210601;Q472635,way
 "Wiener Platz",wikidata,,Q1741,relation+way
 "1. Steinweg",,,,way
+10,,,,way
 14,,,,way
 18,,,,way
-19,,,,way
 "2 Sandy Hlls",,,,way
 "2. Steinweg",,,,way
 8,,,,way
-10,,,,way
+19,,,,way
 A,,,,way
 A-Weg,,,,way
 "Aachener Straße",,,,way
@@ -59,6 +63,7 @@ Altdobritz,,,,way
 Altdölzschen,,,,way
 "Alte 4",,,,way
 "Alte 8",,,,way
+"Alte Bautzner Straße",,,,way
 "Alte Dorfstraße",,,,way
 "Alte Dresdner Straße",,,,way
 "Alte Gärtnerei",,,,way
@@ -421,7 +426,6 @@ Amtsstraße,,,,way
 "An der Obstplantage",,,,way
 "An der Ölmühle",,,,way
 "An der Pikardie",,,,way
-"An der Post",,,,way
 "An der Prießnitz",,,,way
 "An der Prießnitzaue",,,,way
 "An der Reitanlage",,,,way
@@ -540,7 +544,6 @@ Bischofsweg,,,,way
 "Blankensteiner Straße",,,,way
 "Blasewitzer Straße",,,,way
 Blumengäßchen,,,,way
-Blumenstraße,,,,way
 Blumenweg,,,,way
 Blümpenweg,,,,way
 "Bodenbacher Straße",,,,way
@@ -735,7 +738,6 @@ Elbtalblick,,,,way
 Elbvillenweg,,,,way
 Elchweg,,,,way
 Elisenstraße,,,,way
-"Elsasser Straße",,,,way
 Elsternstraße,,,,way
 Elsterweg,,,,way
 "Elsterwerdaer Straße",,,,way
@@ -1163,6 +1165,7 @@ Kastanienweg,,,,way
 Kathenweg,,,,way
 "Katholische Kirchgemeinde St. Petrus Dresden-Strehlen",,,,way
 Katzensprung,,,,way
+Katzensteig,,,,way
 Katzsteinstraße,,,,way
 "Kaufbacher Straße",,,,way
 "Kaufbacher Weg",,,,way
@@ -1598,7 +1601,6 @@ Paschkystraße,,,,way
 Paul-Breyer-Straße,,,,way
 Paul-Scholze-Weg,,,,way
 Paulstraße,,,,way
-Paulusplatz,,,,way
 "Pennricher Feldrain",,,,way
 "Pennricher Höhe",,,,way
 "Pennricher Ring",,,,way
@@ -1640,7 +1642,6 @@ Plumpenbusch,,,,way
 "Podemuser Straße",,,,way
 Podemusstraße,,,,way
 Poetenweg,,,,way
-Pohlandplatz,,,,way
 "Pohrsdorfer Weg",,,,way
 Poisenweg,,,,way
 Polierstraße,,,,way
@@ -1703,7 +1704,6 @@ Randsiedlung,,,,way
 Rankestraße,,,,way
 "Rastatter Straße",,,,way
 Rathausgasse,,,,way
-Rathausplatz,,,,way
 Rathausstraße,,,,way
 Rathenauplatz,,,,way
 Rathenaustraße,,,,way
