@@ -20,20 +20,24 @@ Peter-Schmoll-Straße,wikidata,,Q55018575,way
 "Pfaffendorfer Straße",wikidata,,Q2082080,way
 "Prager Straße",wikidata,,Q1085,relation+way
 Rathausplatz,wikidata,,Q1980363,way
+Ritzenbergstraße,wikidata,,Q67638055,way
+Römchenstraße,wikidata,,Q15712920,way
 Schloßplatz,wikidata,,Q167314,way
 Schloßstraße,wikidata,,Q167314,way
+Schönburgstraße,wikidata,,Q872801,way
+Steinadlerstraße,wikidata,,Q41181,way
 Theaterplatz,wikidata,,Q1718281;Q352,relation+way
 Trinitatisplatz,wikidata,,Q1343765,way
 Wasaplatz,wikidata,,Q210601;Q472635,way
 "Wiener Platz",wikidata,,Q1741,relation+way
 "1. Steinweg",,,,way
+8,,,,way
 10,,,,way
 14,,,,way
 18,,,,way
+19,,,,way
 "2 Sandy Hlls",,,,way
 "2. Steinweg",,,,way
-8,,,,way
-19,,,,way
 A,,,,way
 A-Weg,,,,way
 "Aachener Straße",,,,way
@@ -1172,7 +1176,6 @@ Katzsteinstraße,,,,way
 "Kauschaer Straße",,,,way
 "Kautzscher Straße",,,,way
 Keppgrund,,,,way
-"Keppgrund (SW)",,,,way
 Keppgrundstraße,,,,way
 Keppgrundweg,,,,way
 Kerbtälchen,,,,way
@@ -1595,10 +1598,8 @@ Pappelweg,,,,way
 Paradiesstraße,,,,way
 Parkstraße,,,,way
 Parkweg,,,,way
-Paschkystraße,,,,way
 "Passage Königstraße",,,,way
 "Passauer Straße",,,,way
-Paul-Breyer-Straße,,,,way
 Paul-Scholze-Weg,,,,way
 Paulstraße,,,,way
 "Pennricher Feldrain",,,,way
@@ -1620,7 +1621,6 @@ Pfarrgasse,,,,way
 "Pieschener Mole",,,,way
 "Pieschener Molenbrücke",,,,way
 "Pieschener Straße",,,,way
-Pietzschstraße,,,,way
 "Pillnitz, Schloss",,,,way
 "Pillnitz-Moritzburger Weg",,,,way
 "Pillnitzer Landstraße",,,,way
@@ -1654,7 +1654,6 @@ Postweg,,,,way
 "Potschappler Straße",,,,way
 Pötschkeweg,,,,way
 Preßgasse,,,,way
-Preußerstraße,,,,way
 Prießnitzaue,,,,way
 Prießnitzgrundweg,,,,way
 Prießnitzstraße,,,,way
@@ -1671,16 +1670,13 @@ Provianthofstraße,,,,way
 "Pulsnitzer Straße",,,,way
 "Putbuser Weg",,,,way
 Putjatinstraße,,,,way
-Quandtstraße,,,,way
 Quantzweg,,,,way
 Querallee,,,,way
 Querstraße,,,,way
 Querweg,,,,way
 "Quohrener Straße",,,,way
-Quosdorfstraße,,,,way
 Rabenaue,,,,way
 "Rabenauer Straße",,,,way
-Rabenerstraße,,,,way
 "Räcknitzer Marktweg",,,,way
 Räcknitzhöhe,,,,way
 Räcknitzstraße,,,,way
@@ -1690,83 +1686,45 @@ Räcknitzstraße,,,,way
 "Radebeuler Straße",,,,way
 "Radeburger Landstraße",,,,way
 "Radeburger Straße",,,,way
-Rädestraße,,,,way
 "Rähnitzer Allee",,,,way
 "Rähnitzer Mühlweg",,,,way
 "Rähnitzer Straße",,,,way
 "Rähnitzer Winkel",,,,way
 Rähnitzgasse,,,,way
 Rähnitzsteig,,,,way
-Rahnstraße,,,,way
-Raimundstraße,,,,way
 "Rampische Straße",,,,way
 Randsiedlung,,,,way
-Rankestraße,,,,way
 "Rastatter Straße",,,,way
 Rathausgasse,,,,way
 Rathausstraße,,,,way
-Rathenauplatz,,,,way
-Rathenaustraße,,,,way
 "Rathener Straße",,,,way
 Ratsfeld,,,,way
 Ratsstraße,,,,way
-Rauchstraße,,,,way
 Rauensteinstraße,,,,way
-Rayskistraße,,,,way
-Reckestraße,,,,way
 "Regensburger Straße",,,,way
-Regerstraße,,,,way
 "Rehefelder Straße",,,,way
 "Reichenauer Weg",,,,way
-Reichenbachstraße,,,,way
 "Reichenberger Straße",,,,way
 "Reichenhaller Straße",,,,way
 "Reicker Straße",,,,way
 Reineckeweg,,,,way
-Reinhold-Becker-Straße,,,,way
-Reinickstraße,,,,way
 "Reisewitzer Straße",,,,way
-Reisstraße,,,,way
-Reißigerstraße,,,,way
 Reitbahnstraße,,,,way
 Reitbahnweg,,,,way
 "Reitzendorfer Straße",,,,way
-Rembrandtstraße,,,,way
-Renkstraße,,,,way
 "Rennersdorfer Hauptstraße",,,,way
 "Rennersdorfer Straße",,,,way
 Rennplatzstraße,,,,way
 Rennsteig,,,,way
-Rethelstraße,,,,way
-Reuningstraße,,,,way
 Rhönweg,,,,way
-Ricarda-Huch-Straße,,,,way
-Richard-Bernhardt-Weg,,,,way
-Richard-Mannschatz-Straße,,,,way
-Richard-Riemerschmid-Straße,,,,way
-Richard-Rösch-Straße,,,,way
-Richard-Strauss-Platz,,,,way
-Richard-Wagner-Straße,,,,way
 Riedgrasweg,,,,way
-Riegelplatz,,,,way
 "Riesaer Straße",,,,way
-Rietschelstraße,,,,way
 Rietschelweg,,,,way
-Rietzstraße,,,,way
 Ringstraße,,,,way
 "Rippiener Straße",,,,way
 Rißweg,,,,way
-Rittershausstraße,,,,way
 Ritterstraße,,,,way
-Ritzenbergstraße,,,,way
-Robert-Berndt-Straße,,,,way
-Robert-Blum-Straße,,,,way
 Robert-Bosch-Ring,,,,way
-Robert-Diez-Straße,,,,way
-Robert-Koch-Straße,,,,way
-Robert-Matzke-Straße,,,,way
-Robert-Sterl-Straße,,,,way
-Robert-Weber-Straße,,,,way
 Robinienhain,,,,way
 Robinienstraße,,,,way
 "Rochwitzer Straße",,,,way
@@ -1776,21 +1734,11 @@ Robinienstraße,,,,way
 Rodelweg,,,,way
 "Röderauer Straße",,,,way
 Rodung,,,,way
-Rohlfsstraße,,,,way
 Röhrhofsgasse,,,,way
 "Röhrsdorfer Straße",,,,way
 "Roitzscher Dorfstraße",,,,way
 "Roitzscher Landstraße",,,,way
 "Roitzscher Straße",,,,way
-Römchenstraße,,,,way
-Röntgenstraße,,,,way
-Roquettestraße,,,,way
-Rosa-Luxemburg-Platz,,,,way
-Rosa-Menzer-Straße,,,,way
-Rosa-Steinhart-Straße,,,,way
-Roscherstraße,,,,way
-Roseggerstraße,,,,way
-Rosenbergstraße,,,,way
 Rosengäßchen,,,,way
 Rosenschulweg,,,,way
 Rosenstraße,,,,way
@@ -1802,8 +1750,6 @@ Rosmaringasse,,,,way
 "Rossendorfer Straße",,,,way
 "Rossendorfer Weg",,,,way
 "Rostocker Straße",,,,way
-Roßbachstraße,,,,way
-Roßmäßlerstraße,,,,way
 "Roßthaler Straße",,,,way
 "Roßweiner Straße",,,,way
 Rotdornstraße,,,,way
@@ -1813,30 +1759,13 @@ Rotdornstraße,,,,way
 Roter-Graben-Weg,,,,way
 "Röthenbacher Straße",,,,way
 "Rothenburger Straße",,,,way
-Rothermundtstraße,,,,way
 Rothhäuserstraße,,,,way
 Rotkehlchenweg,,,,way
 "Rottwerndorfer Straße",,,,way
-Rubensweg,,,,way
-Rubinsteinstraße,,,,way
-Rückertstraße,,,,way
 "Rüdesheimer Straße",,,,way
-Rudi-Lattner-Straße,,,,way
-Rudolf-Bergander-Ring,,,,way
-Rudolf-Dittrich-Straße,,,,way
-Rudolf-Förster-Straße,,,,way
-Rudolf-Kempe-Straße,,,,way
-Rudolf-Leonhard-Straße,,,,way
-Rudolf-Mauersberger-Straße,,,,way
-Rudolf-Nehmer-Straße,,,,way
-Rudolf-Renner-Straße,,,,way
-Rudolf-Trache-Straße,,,,way
-Rudolf-Walther-Straße,,,,way
-Rudolf-Zwintscher-Straße,,,,way
 Rudolfstraße,,,,way
 Rudolphweg,,,,way
 RuinenDH,,,,way
-Rungestraße,,,,way
 "Ruppendorfer Weg",,,,way
 Ruscheweg,,,,way
 Rütlistraße,,,,way
@@ -1854,7 +1783,6 @@ Sachsenwerkstraße,,,,way
 Sachsweg,,,,way
 "Sadisdorfer Weg",,,,way
 "Sagarder Weg",,,,way
-Salbachstraße,,,,way
 "Salzburger Straße",,,,way
 Salzgasse,,,,way
 Sanatoriumsweg,,,,way
@@ -1868,86 +1796,58 @@ Säugrundweg,,,,way
 Sauteichweg,,,,way
 Saxoniastraße,,,,way
 "Saydaer Straße",,,,way
-Scariastraße,,,,way
-Schaberschulstraße,,,,way
-Schädestraße,,,,way
 Schäferstraße,,,,way
 "Schandauer Straße",,,,way
 Schänkenweg,,,,way
 Schanzenstraße,,,,way
 "Scharfenberger Straße",,,,way
 Scharfensteinstraße,,,,way
-Schaufußstraße,,,,way
-Schaumbergerstraße,,,,way
-Schedlichstraße,,,,way
-Scheidemantelstraße,,,,way
 "Schellerhauer Weg",,,,way
 Schelsberg,,,,way
 Schelsstraße,,,,way
 Schelsweg,,,,way
-Schenkendorfstraße,,,,way
 Scheunenhofstraße,,,,way
-Schevenstraße,,,,way
 Schießgasse,,,,way
 Schilfteichstraße,,,,way
 Schilfweg,,,,way
 Schillergalerie,,,,way
-Schillerplatz,,,,way
-Schillerstraße,,,,way
-Schillingplatz,,,,way
 Schillingstraße,,,,way
 Schinderweg,,,,way
-Schinkelstraße,,,,way
 Schlachthofstraße,,,,way
 Schlehdornstraße,,,,way
 Schlehenstraße,,,,way
-Schleiermacherstraße,,,,way
 "Schlesischer Platz",,,,relation+way
 "Schleswiger Straße",,,,way
-Schlömilchstraße,,,,way
 "Schlottwitzer Straße",,,,way
 Schlucht,,,,way
-Schlüterstraße,,,,way
 "Schmaler Weg",,,,way
 Schmalwiesenstraße,,,,way
 "Schmiedeberger Straße",,,,way
 "Schmilkaer Straße",,,,way
 Schneebergstraße,,,,way
 "Schneiders Delle",,,,way
-Schnorrstraße,,,,way
-Schoberstraße,,,,way
 Scholzweg,,,,way
 "Schönaer Straße",,,,way
 "Schönbacher Weg",,,,way
 Schönbergstraße,,,,way
 "Schönborner Straße",,,,way
 Schönbrunnstraße,,,,way
-Schönburgstraße,,,,way
 "Schöne Aussicht",,,,way
 "Schönfelder Landstraße",,,,way
 "Schönfelder Straße",,,,way
-Schongauerstraße,,,,way
-Schopenhauerstraße,,,,way
 Schöpsdamm,,,,way
 Schössergasse,,,,way
 Schrammsteinstraße,,,,way
 "Schreberallee Ost",,,,way
 "Schreberallee Süd",,,,way
 "Schreberallee West",,,,way
-Schreberstraße,,,,way
 Schreibergasse,,,,way
-Schroeterstraße,,,,way
-Schuchstraße,,,,way
 Schulberg,,,,way
 Schulgasse,,,,way
 Schulgutstraße,,,,way
 "Schullwitzer Straße",,,,way
 Schulstraße,,,,way
 Schulweg,,,,way
-Schulze-Delitzsch-Straße,,,,way
-Schumannstraße,,,,way
-Schunckstraße,,,,way
-Schurichtstraße,,,,way
 Schützengasse,,,,way
 Schützenhofstraße,,,,way
 Schützenhöhe,,,,way
@@ -1959,17 +1859,12 @@ Schwarmweg,,,,way
 "Schwarzer Weg",,,,way
 "Schweizer Straße",,,,way
 Schweizstraße,,,,way
-Schwenkstraße,,,,way
 "Schwepnitzer Straße",,,,way
 "Schweriner Straße",,,,way
-Schwindstraße,,,,way
 Scillaweg,,,,way
-Sebastian-Bach-Straße,,,,way
 "Sebnitzer Straße",,,,way
-Seebachstraße,,,,way
 "Seefelder Weg",,,,way
 Seegärten,,,,way
-Seeligstraße,,,,way
 Seerosenweg,,,,way
 Seestraße,,,,way
 Seewiesenweg,,,,way
@@ -1985,34 +1880,19 @@ Seitenstraße,,,,way
 "Selliner Straße",,,,way
 Seminarstraße,,,,way
 Semmelweg,,,,way
-Semmelweisstraße,,,,way
-Semperstraße,,,,way
-Senefelderstraße,,,,way
 "Senftenberger Straße",,,,way
 "Serkowitzer Straße",,,,way
 Serpentinstraße,,,,way
-Seumestraße,,,,way
 "Seußlitzer Straße",,,,way
-Sickingenstraße,,,,way
-Sidonienstraße,,,,way
-Siebekingstraße,,,,way
 "Siebenbürgener Straße",,,,way
 "Siebenlehner Straße",,,,way
 Siedlerstraße,,,,way
 Siedlerweg,,,,way
 "Siedlung in der Aue",,,,way
 Siedlungsstraße,,,,way
-Siegmund-Loewe-Straße,,,,way
-Siemensstraße,,,,way
 Sierksplatz,,,,way
-Sierksstraße,,,,way
 Silberfund,,,,way
-Silbermannstraße,,,,way
 Silbertalweg,,,,way
-Silberweg,,,,way
-Silcherstraße,,,,way
-Simrockstraße,,,,way
-Singerstraße,,,,way
 "SnakeTrail 2.0",,,,way
 "Sobrigauer Weg",,,,way
 "Söbrigener Straße",,,,way
@@ -2028,21 +1908,16 @@ Sonnensteinweg,,,,way
 Sonnenweg,,,,way
 Sonnenwinkel,,,,way
 "Sonniger Weg",,,,way
-Sophienstraße,,,,way
 Sorbenstraße,,,,way
 "Sörnewitzer Straße",,,,way
 "Sosaer Straße",,,,way
 Spalteholzweg,,,,way
 Spartenweg,,,,way
-Spenerstraße,,,,way
 Sperlingsgasse,,,,way
 Sperlingsweg,,,,way
 Spiegelweg,,,,way
-Spittastraße,,,,way
 Spitzbergstraße,,,,way
 Spitzhausstraße,,,,way
-Spitzwegstraße,,,,way
-Spohrstraße,,,,way
 "Sporbitzer Ring",,,,way
 "Sporbitzer Straße",,,,way
 Sporergasse,,,,way
@@ -2060,41 +1935,29 @@ Stallberg,,,,way
 Stallhof,,,,relation
 Stammweg,,,,way
 Stangenweg,,,,way
-Stangestraße,,,,way
-Stauffenbergallee,,,,way
 Stauseeweg,,,,way
 Stechgrund,,,,way
 Stechgrundstraße,,,,way
-Steglichstraße,,,,way
 Steigerweg,,,,way
 "Steile Straße",,,,way
-Steinadlerstraße,,,,way
 "Steinbacher Grundstraße",,,,way
 "Steinbacher Straße",,,,way
 "Steinerne Brücke",,,,way
-Steinheilstraße,,,,way
 Steinhübelweg,,,,way
 Steinigtwiesenweg,,,,way
 Steinstraße,,,,way
 Steinweg,,,,way
 "Steirische Straße",,,,way
 "Stendaler Straße",,,,way
-Stephanienplatz,,,,way
-Stephanienstraße,,,,way
-Stephanstraße,,,,way
-Stephensonstraße,,,,way
 Sternplatz,,,,way
 Sternstraße,,,,way
 Sternweg,,,,way
 "Stetzscher Straße",,,,way
 Stieglitzweg,,,,way
-Stiehlerstraße,,,,way
 "Stille Winkel",,,,way
 "Stiller Winel",,,,way
 "Stiller Winkel",,,,way
-Stöckelstraße,,,,way
 Stöckigtweg,,,,way
-Stollestraße,,,,way
 "Stolpener Straße",,,,way
 Storchenneststraße,,,,way
 Storchenweg,,,,way
@@ -2102,17 +1965,12 @@ Storchenweg,,,,way
 "Straßburger Platz",,,,way
 "Straße des 17. Juni",,,,way
 "Straße des Friedens",,,,way
-Straußstraße,,,,way
 "Strehlener Platz",,,,way
 "Strehlener Straße",,,,way
-Stresemannplatz,,,,way
 "Striesener Straße",,,,way
 "Striesener Winkel",,,,way
 "Struppener Straße",,,,way
-Struvestraße,,,,way
-Stübelallee,,,,way
 Stufenweg,,,,way
-Stürenburgstraße,,,,way
 "Stuttgarter Straße",,,,way
 Südallee,,,,way
 Sudetenstraße,,,,way
@@ -2123,7 +1981,6 @@ Südstraße,,,,way
 "Südtiroler Straße",,,,way
 Südweg,,,,way
 Südwesthang,,,,way
-Suttnerstraße,,,,way
 Taegerstraße,,,,way
 Talblick,,,,way
 Talstraße,,,,way
