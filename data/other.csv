@@ -28,16 +28,19 @@ Schönburgstraße,wikidata,,Q872801,way
 Steinadlerstraße,wikidata,,Q41181,way
 Theaterplatz,wikidata,,Q1718281;Q352,relation+way
 Trinitatisplatz,wikidata,,Q1343765,way
+Vitzthumstraße,wikidata,,Q1688902,way
 Wasaplatz,wikidata,,Q210601;Q472635,way
+"Wettiner Platz",wikidata,,Q152909,way
 "Wiener Platz",wikidata,,Q1741,relation+way
+Wilhelm-Bölsche-Straße,wikidata,,Q99220843,way
 "1. Steinweg",,,,way
-8,,,,way
 10,,,,way
 14,,,,way
 18,,,,way
 19,,,,way
 "2 Sandy Hlls",,,,way
 "2. Steinweg",,,,way
+8,,,,way
 A,,,,way
 A-Weg,,,,way
 "Aachener Straße",,,,way
@@ -1981,7 +1984,6 @@ Südstraße,,,,way
 "Südtiroler Straße",,,,way
 Südweg,,,,way
 Südwesthang,,,,way
-Taegerstraße,,,,way
 Talblick,,,,way
 Talstraße,,,,way
 Talweg,,,,way
@@ -1996,9 +1998,7 @@ Taschenberg,,,,way
 Tatzberg,,,,way
 "Taubenheimer Straße",,,,way
 Taubenweg,,,,way
-Tauberthstraße,,,,way
 Tauernstraße,,,,way
-Tauscherstraße,,,,way
 Teichplatz,,,,way
 Teichstraße,,,,way
 Teichweg,,,,way
@@ -2009,43 +2009,16 @@ Terrassenufer,,,,way
 "Tetschener Straße",,,,way
 Teutoburgstraße,,,,way
 "Tharandter Straße",,,,way
-Thäterstraße,,,,way
 Theaterstraße,,,,way
-Theilestraße,,,,way
 "Theisewitzer Straße",,,,way
-Theodor-Fontane-Straße,,,,way
-Theodor-Friedrich-Weg,,,,way
-Theodor-Storm-Straße,,,,way
 Theodorstraße,,,,way
-Therese-Malten-Straße,,,,way
-Theresienstraße,,,,way
-Thielaustraße,,,,way
-Thiemestraße,,,,way
-Thomaestraße,,,,way
-Thomas-Mann-Straße,,,,way
-Thomas-Müntzer-Platz,,,,way
-Thömelstraße,,,,way
-Thormeyerstraße,,,,way
 "Thürmsdorfer Straße",,,,way
 Thymianweg,,,,way
-Tichatscheckstraße,,,,way
-Tichystraße,,,,way
-Tieckstraße,,,,way
-Tiedgestraße,,,,way
 "Tiefer Grund",,,,way
 Tiergartenstraße,,,,way
-Timaeusstraße,,,,way
-Tirmannstraße,,,,way
 "Tiroler Straße",,,,way
-Tischerstraße,,,,way
-Tittmannstraße,,,,way
-Tizianstraße,,,,way
-Toeplerstraße,,,,way
-Tögelstraße,,,,way
 "Tolkewitzer Straße",,,,way
-Tolstoistraße,,,,way
 Tonbergstraße,,,,way
-Toni-Sender-Straße,,,,way
 Töpferstraße,,,,way
 "Torgauer Straße",,,,way
 "Tornaer Ring",,,,way
@@ -2056,36 +2029,25 @@ Torweg,,,,way
 "Trachenberger Straße",,,,way
 "Trattendorfer Straße",,,,way
 Traubelstraße,,,,way
-Traubestraße,,,,way
-Traugoth-Schmiedgen-Straße,,,,way
 Traunsteinweg,,,,way
-Traute-Richter-Straße,,,,way
 "Travemünder Straße",,,,way
 Trebeweg,,,,way
 Treidelpfad,,,,way
 Treidlerstraße,,,,way
-Trentzschweg,,,,way
 "Trienter Straße",,,,way
 Trieskestraße,,,,way
-Trobischstraße,,,,way
 Trompeterstraße,,,,way
 "Tronitzer Straße",,,,way
 "Troppauer Straße",,,,way
-Trübnerstraße,,,,way
 Trümmerbahnweg,,,,way
-Tschirnhausstraße,,,,way
 "Tübinger Straße",,,,way
 Tuchmachergasse,,,,way
 Tulpenweg,,,,way
 "Tunnel Bramschstraße",,,,way
 Turnerweg,,,,way
-Tzschimmerstraße,,,,way
-Tzschirnerplatz,,,,way
 "Übigauer Fährweg",,,,way
 "Übigauer Straße",,,,way
 Uferstraße,,,,way
-Uhdestraße,,,,way
-Uhlandstraße,,,,way
 "Ulberndorfer Weg",,,,way
 "Ullersdorf-Langebrücker Straße",,,,way
 "Ullersdorfer Hauptstraße",,,,way
@@ -2095,7 +2057,6 @@ Uhlandstraße,,,,way
 "Ullersdorfer Straße",,,,way
 Ulmenstraße,,,,way
 Ulmenweg,,,,way
-Ulrichstraße,,,,way
 "Unkersdorfer Landstraße",,,,way
 "Unkersdorfer Straße",,,,way
 "Unkersdorfer Weg",,,,way
@@ -2105,58 +2066,42 @@ Unverzagtweg,,,,way
 Urnenfeldweg,,,,way
 Urnenstraße,,,,way
 Ursus-Steig,,,,way
-Uthmannstraße,,,,way
 "Uttewalder Straße",,,,way
-Valeria-Kratina-Weg,,,,way
 Valtenbergstraße,,,,way
-Van-Gogh-Straße,,,,way
 Veilchenstraße,,,,way
 Veilchenweg,,,,way
 Verbindungssteig,,,,way
 Veteranenstraße,,,,way
 "Vetschauer Straße",,,,way
-Victor-Klemperer-Straße,,,,way
 Viehbotsche,,,,way
 Vierbeeteweg,,,,way
 Vierlinden,,,,way
-Viktor-Böhmert-Weg,,,,way
 Viktoriastraße,,,,way
 "Villacher Straße",,,,way
-Virchowstraße,,,,way
-Vitzthumstraße,,,,way
-Vogelsteinstraße,,,,way
 Vogelstellerweg,,,,way
 Vogesenweg,,,,way
-Voglerstraße,,,,way
 "Volkersdorfer Sandweg",,,,way
 "Volkersdorfer Straße",,,,way
 "Volkersdorfer Weg",,,,way
-Vollmarstraße,,,,way
-Vollsackstraße,,,,way
 Vorerlenweg,,,,way
 Vorwerkstraße,,,,way
-Voßstraße,,,,way
 "Wachauer Straße",,,,way
 Wachbergstraße,,,,way
 Wacholderstraße,,,,way
 Wachsbleichstraße,,,,way
 Wachtelweg,,,,way
-Wächterstraße,,,,way
 Wachwitzblick,,,,way
 Wachwitzblickweg,,,,way
 "Wachwitzer Bergstraße",,,,way
 "Wachwitzer Höhenweg",,,,way
 "Wachwitzer Weinberg",,,,way
 Wachwitzgrund,,,,way
-Wägnerstraße,,,,way
 "Wahnsdorfer Straße",,,,way
 Waisenhausstraße,,,,way
 Waldblick,,,,way
-Waldemarstraße,,,,way
 Waldhausstraße,,,,way
 "Waldheimer Straße",,,,way
 Waldhofstraße,,,,way
-Waldmüllerstraße,,,,way
 Waldparkstraße,,,,way
 Waldschlößchenbrücke,,,,way
 Waldschlößchenstraße,,,,way
@@ -2166,23 +2111,16 @@ Waldteichstraße,,,,way
 Waldweg,,,,way
 "Waldweg nach Helfenberg",,,,way
 Wallgäßchen,,,,way
-Wallotstraße,,,,way
 Wallstraße,,,,way
-Walpurgisstraße,,,,way
-Walter-Arnold-Straße,,,,way
-Walter-Peters-Straße,,,,way
 Walterweg,,,,way
-Waltherstraße,,,,way
 Wanderweg,,,,way
 "Warnemünder Straße",,,,way
 Wartburgstraße,,,,way
 "Warthaer Straße",,,,way
 Wasastraße,,,,way
-Washingtonstraße,,,,way
 Wasserweg,,,,way
 Wasserwerkstraße,,,,way
 Webergasse,,,,way
-Weberplatz,,,,way
 Weberweg,,,,way
 "Weesensteiner Straße",,,,way
 "Weg 1",,,,way
@@ -2202,11 +2140,9 @@ Weinbergsweg,,,,way
 "Weinböhlaer Straße",,,,way
 Weingartenweg,,,,way
 Weinleite,,,,way
-Weinligstraße,,,,way
 Weintraubenstraße,,,,way
 "Weistropper Straße",,,,way
 "Weistropper Weg",,,,way
-Weißbachstraße,,,,way
 Weißdornstraße,,,,way
 "Weiße Gasse",,,,way
 "Weißenberger Straße",,,,way
@@ -2220,50 +2156,24 @@ Weißeritzstraße,,,,way
 "Weixdorfer Straße",,,,way
 "Weixdorfer Weg",,,,way
 "Welschhufer Straße",,,,way
-Weltestraße,,,,way
-Welzelstraße,,,,way
-Wendel-Hipler-Straße,,,,way
 "Werdauer Straße",,,,way
 Werftstraße,,,,way
 Werkstättenstraße,,,,way
 Werkstraße,,,,way
-Werner-Hartmann-Straße,,,,way
-Wernerplatz,,,,way
 Wernerstraße,,,,way
 Westendring,,,,way
 Westendstraße,,,,way
 Weststraße,,,,way
 "Wetroer Straße",,,,way
-"Wettiner Platz",,,,way
 Wettiner-Steig,,,,way
-Wieckestraße,,,,way
-Wielandstraße,,,,way
 "Wiener Straße",,,,way
 "Wiesbadener Straße",,,,way
 Wiesensteig,,,,way
 Wiesenstraße,,,,way
 Wiesenweg,,,,way
-Wigardstraße,,,,way
 Wildbergstraße,,,,way
 Wilder-Mann-Straße,,,,way
-Wilhelm-Bölsche-Straße,,,,way
-Wilhelm-Buck-Straße,,,,way
-Wilhelm-Busch-Straße,,,,way
-Wilhelm-Franke-Straße,,,,way
-Wilhelm-Franz-Straße,,,,way
-Wilhelm-Külz-Straße,,,,way
-Wilhelm-Lachnit-Straße,,,,way
-Wilhelm-Liebknecht-Straße,,,,way
-Wilhelm-Müller-Straße,,,,way
-Wilhelm-Raabe-Straße,,,,way
-Wilhelm-Rudolph-Straße,,,,way
-Wilhelm-Weitling-Straße,,,,way
-Wilhelm-Wolf-Straße,,,,way
-Wilhelmine-Reichard-Ring,,,,way
-Wilhelminenstraße,,,,way
 Wilischstraße,,,,way
-William-Shakespeare-Straße,,,,way
-Williamstraße,,,,way
 "Wilmsdorfer Straße",,,,way
 "Wilschdorfer Landstraße",,,,way
 "Wilschdorfer Straße",,,,way
@@ -2282,9 +2192,7 @@ Winzerstraße,,,,way
 Wirtschaftsweg,,,,way
 "Wismarer Straße",,,,way
 "Wittenberger Straße",,,,way
-Wittenstraße,,,,way
 "Wittgensdorfer Straße",,,,way
-Wöhlerstraße,,,,way
 Wohnweg,,,,way
 "Wölfnitzer Ring",,,,way
 Wölfnitzstraße,,,,way
@@ -2294,49 +2202,34 @@ Wolfszug,,,,way
 "Wolgaster Straße",,,,way
 "Wölkauer Straße",,,,way
 "Wolkensteiner Straße",,,,way
-Wollnerstraße,,,,way
 "Wormser Platz",,,,way
 "Wormser Straße",,,,way
-Wüllnerstraße,,,,way
-Wunderlichstraße,,,,way
-Wundtstraße,,,,way
 "Wünschendorfer Straße",,,,way
 "Wurgwitzer Landstraße",,,,way
 "Wurgwitzer Straße",,,,way
 "Würschnitzer Weg",,,,way
 "Würzburger Straße",,,,way
 "Wurzener Straße",,,,way
-Wuttkestraße,,,,way
 Zachengrundring,,,,way
 Zachenweg,,,,way
-Zahnsgasse,,,,way
-Zamenhofstraße,,,,way
 "Zaschendorfer Straße",,,,way
 "Zauckeroder Straße",,,,way
 Zaunkönigweg,,,,way
 Zeisigweg,,,,way
-Zeiss-Abbe-Straße,,,,way
 "Zeithainer Straße",,,,way
-Zelenkastraße,,,,way
 "Zellescher Weg",,,,way
-Zeppelinstraße,,,,way
-Zeunerstraße,,,,way
 Ziegeleistraße,,,,way
 Ziegeleiweg,,,,way
 Ziegelstraße,,,,way
-Zieglerstraße,,,,way
-Zinggstraße,,,,way
 Zinnienweg,,,,way
 "Zinnowitzer Straße",,,,way
 "Zinnwalder Straße",,,,way
-Zinzendorfstraße,,,,way
 Zirkelsteinstraße,,,,way
 Zirkusstraße,,,,way
 "Zittauer Straße",,,,way
 "Zitzschewiger Straße",,,,way
 "Zöllmener Landstraße",,,,way
 "Zöllmener Straße",,,,way
-Zöllnerstraße,,,,way
 "Zschachwitzer Straße",,,,way
 Zschaukegraben,,,,way
 "Zschertnitzer Straße",,,,way
@@ -2407,10 +2300,8 @@ Zughübelstraße,,,,way
 "Zur Wetterwarte",,,,way
 "Zur Ziegelwiese",,,,way
 Zwanzigerstraße,,,,way
-Zweibrüderweg,,,,way
 "Zweiter Mittelweg",,,,way
 Zwergstraße,,,,way
 "Zwickauer Platz",,,,way
 "Zwickauer Straße",,,,way
-Zwinglistraße,,,,way
 "ehem. Todweg",,,,way
