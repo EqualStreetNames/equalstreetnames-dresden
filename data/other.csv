@@ -37,6 +37,7 @@ Wilhelm-Bölsche-Straße,wikidata,,Q99220843,way
 1,,,,way
 "1, Kreuzringel",,,,way
 "1. Steinweg",,,,way
+2,,,,way
 10,,,,way
 "10 / Halbmond",,,,way
 11,,,,way
@@ -44,7 +45,11 @@ Wilhelm-Bölsche-Straße,wikidata,,Q99220843,way
 13,,,,way
 14,,,,way
 "14 / Diebsteig",,,,way
-2,,,,way
+15,,,,way
+16,,,,way
+17,,,,way
+18,,,,way
+19,,,,way
 "2 Sandy Hlls",,,,way
 "2. Steinweg",,,,way
 3,,,,way
@@ -54,11 +59,6 @@ Wilhelm-Bölsche-Straße,wikidata,,Q99220843,way
 7,,,,way
 8,,,,way
 9,,,,way
-15,,,,way
-16,,,,way
-17,,,,way
-18,,,,way
-19,,,,way
 A,,,,way
 A-Weg,,,,way
 "Aachener Straße",,,,way
@@ -406,6 +406,7 @@ Altwölfnitz,,,,way
 "Am Zuckerhut",,,,way
 "Am Zwingerteich",,,,way
 Amaryllenweg,,,,way
+Amselgasse,,,,way
 Amselgrund,,,,way
 Amselsteg,,,,way
 Amselweg,,,,way
@@ -675,6 +676,7 @@ Bürgerwiese,,,,way
 Burgwartstraße,,,,way
 "Burkersdorfer Weg",,,,way
 Buschweg,,,,way
+Bussardweg,,,,way
 C,,,,way
 "C / Hämmerchen",,,,way
 "C / Kreuz 6",,,,way
@@ -1240,7 +1242,6 @@ Kastanienallee,,,,way
 Kastanienstraße,,,,way
 Kastanienweg,,,,way
 Kathenweg,,,,way
-"Katholische Kirchgemeinde St. Petrus Dresden-Strehlen",,,,way
 Katzensprung,,,,way
 Katzensteig,,,,way
 Katzsteinstraße,,,,way
@@ -1487,6 +1488,7 @@ Lynchschlucht,,,,way
 MP,,,,way
 Magazinstraße,,,,way
 "Magdeburger Straße",,,,way
+Maiglöckchenweg,,,,way
 Maille-Bahn,,,,way
 "Mainzer Straße",,,,way
 Malergäßchen,,,,way
@@ -1552,6 +1554,7 @@ Mittelweg,,,,way
 "Mobschatzer Straße",,,,way
 "Mockethaler Straße",,,,way
 "Mockritzer Straße",,,,way
+Mohnblumenweg,,,,way
 "Mohorner Straße",,,,way
 Mönchsholz,,,,way
 Moosleite,,,,way
@@ -1566,6 +1569,7 @@ Morgensonne,,,,way
 "Moritzburger Straße",,,,way
 "Moritzburger Weg",,,,way
 Moritzschachtstraße,,,,way
+Möwenweg,,,,way
 "Mügelner Straße",,,,way
 "Mühlbacher Straße",,,,way
 Mühlenblick,,,,way
@@ -1718,6 +1722,7 @@ Petrikirchstraße,,,,way
 Pfaffengrund,,,,way
 Pfaffensteinstraße,,,,way
 Pfarrgasse,,,,way
+Pfingstrosenweg,,,,way
 "Pforzheimer Straße",,,,way
 "Pieschener Allee",,,,way
 "Pieschener Mole",,,,way
@@ -2082,7 +2087,6 @@ Sternweg,,,,way
 "Stetzscher Straße",,,,way
 Stieglitzweg,,,,way
 "Stille Winkel",,,,way
-"Stiller Winel",,,,way
 "Stiller Winkel",,,,way
 Stöckigtweg,,,,way
 "Stolpener Straße",,,,way
@@ -2109,6 +2113,7 @@ Südstraße,,,,way
 "Südtiroler Straße",,,,way
 Südweg,,,,way
 Südwesthang,,,,way
+Tagetesweg,,,,way
 Talblick,,,,way
 Talstraße,,,,way
 Talweg,,,,way
