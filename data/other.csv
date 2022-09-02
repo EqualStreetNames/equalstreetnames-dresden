@@ -34,11 +34,15 @@ Wasaplatz,wikidata,,Q210601;Q472635,way
 "Wettiner Platz",wikidata,,Q152909,way
 "Wiener Platz",wikidata,,Q1741,relation+way
 Wilhelm-Bölsche-Straße,wikidata,,Q99220843,way
+"Zum Bahnhof",wikidata,,Q111507051,way
 1,,,,way
 "1, Kreuzringel",,,,way
 "1. Steinweg",,,,way
 "10 / Halbmond",,,,way
+"14 / Diebsteig",,,,way
 2,,,,way
+"2 Sandy Hlls",,,,way
+"2. Steinweg",,,,way
 3,,,,way
 4,,,,way
 5,,,,way
@@ -51,14 +55,11 @@ Wilhelm-Bölsche-Straße,wikidata,,Q99220843,way
 12,,,,way
 13,,,,way
 14,,,,way
-"14 / Diebsteig",,,,way
 15,,,,way
 16,,,,way
 17,,,,way
 18,,,,way
 19,,,,way
-"2 Sandy Hlls",,,,way
-"2. Steinweg",,,,way
 A,,,,way
 A-Weg,,,,way
 "Aachener Straße",,,,way
@@ -2393,7 +2394,6 @@ Zschonergrundstraße,,,,way
 Zschonergrundweg,,,,way
 "Zu den Weiden",,,,way
 Zughübelstraße,,,,way
-"Zum Bahnhof",,,,way
 "Zum Birkhübel",,,,way
 "Zum Dorfblick",,,,way
 "Zum Festplatz",,,,way
