@@ -6,13 +6,17 @@ Alnpeckstraße,wikidata,,Q1486838,way
 Annenstraße,wikidata,,Q269656;Q566436,way
 Bernerstraße,wikidata,,Q15647274,way
 Blumenstraße,wikidata,,Q886167,way
+"Bregenzer Weg",wikidata,,Q1737,way
 Brehmweg,wikidata,,Q67302038,way
 Bundschuhstraße,wikidata,,Q786772,way
 "Elsasser Straße",wikidata,,Q1142,way
 Girlitzweg,wikidata,,Q271807,way
+"Gmünder Straße",wikidata,,Q660580,way
 Grimmstraße,wikidata,,Q2793,way
+Großglocknerstraße,wikidata,,Q3388,way
 Hochschulstraße,wikidata,,Q1622225,way
 Kap-herr-Weg,wikidata,,Q1728288,way
+"Krainer Straße",wikidata,,Q193474,way
 Kyawstraße,wikidata,,Q1794979,way
 "Landsberger Straße",wikidata,,Q494299,way
 "Loschwitzer Brücke",wikidata,,Q8939,way
@@ -27,9 +31,12 @@ Römchenstraße,wikidata,,Q15712920,way
 Schloßplatz,wikidata,,Q167314,way
 Schloßstraße,wikidata,,Q167314,way
 Schönburgstraße,wikidata,,Q872801,way
+"Seefelder Weg",wikidata,,Q660035,way
 Steinadlerstraße,wikidata,,Q41181,way
 Theaterplatz,wikidata,,Q1718281;Q352,relation+way
+"Tiroler Straße",wikidata,,Q42880,way
 Trinitatisplatz,wikidata,,Q1343765,way
+"Villacher Straße",wikidata,,Q483522,way
 Vitzthumstraße,wikidata,,Q1688902,way
 Wasaplatz,wikidata,,Q210601;Q472635,way
 "Wettiner Platz",wikidata,,Q152909,way
@@ -39,6 +46,7 @@ Wilhelm-Bölsche-Straße,wikidata,,Q99220843,way
 1,,,,way
 "1, Kreuzringel",,,,way
 "1. Steinweg",,,,way
+"10 / Halbmond",,,,way
 2,,,,way
 3,,,,way
 4,,,,way
@@ -48,7 +56,6 @@ Wilhelm-Bölsche-Straße,wikidata,,Q99220843,way
 8,,,,way
 9,,,,way
 10,,,,way
-"10 / Halbmond",,,,way
 11,,,,way
 12,,,,way
 13,,,,way
@@ -626,7 +633,6 @@ Bräuergasse,,,,way
 Braugäßchen,,,,way
 "Braunschweiger Straße",,,,way
 "Braunsdorfer Straße",,,,way
-"Bregenzer Weg",,,,way
 "Breitenauer Straße",,,,way
 "Bremer Straße",,,,way
 Brettmühlenweg,,,,way
@@ -955,7 +961,6 @@ Glacisstraße,,,,way
 "Glauchauer Straße",,,,way
 "Gleinaer Straße",,,,way
 Glück-Auf-Weg,,,,way
-"Gmünder Straße",,,,way
 "Gnaschwitzer Straße",,,,way
 Gnomenstieg,,,,way
 "Gohliser Straße",,,,way
@@ -1004,7 +1009,6 @@ Grillparzerstraße,,,,way
 "Große Plauensche Straße",,,,way
 "Großenhainer Platz",,,,way
 "Großenhainer Straße",,,,way
-Großglocknerstraße,,,,way
 "Großgraupaer Kirchweg",,,,way
 "Großröhrsdorfer Straße",,,,way
 "Großschönauer Straße",,,,way
@@ -1332,7 +1336,6 @@ Kottmarstraße,,,,way
 "Kötzschenbrodaer Straße",,,,way
 "Kötzschenbroder Straße",,,,way
 "Kraftwerk Mitte",,,,way
-"Krainer Straße",,,,way
 Krautgasse,,,,way
 "Krebser Straße",,,,way
 "Kreischaer Straße",,,,way
@@ -1992,7 +1995,6 @@ Schwerterweg,,,,way
 Schwesternsteig,,,,way
 Scillaweg,,,,way
 "Sebnitzer Straße",,,,way
-"Seefelder Weg",,,,way
 Seegärten,,,,way
 Seerosenweg,,,,way
 Seestraße,,,,way
@@ -2147,7 +2149,6 @@ Theodorstraße,,,,way
 Thymianweg,,,,way
 "Tiefer Grund",,,,way
 Tiergartenstraße,,,,way
-"Tiroler Straße",,,,way
 Todbrücke,,,,way
 Todweg,,,,way
 "Tolkewitzer Straße",,,,way
@@ -2218,7 +2219,6 @@ Viehbotsche,,,,way
 Vierbeeteweg,,,,way
 Vierlinden,,,,way
 Viktoriastraße,,,,way
-"Villacher Straße",,,,way
 Vogelstellerweg,,,,way
 Vogelzipfel,,,,way
 Vogesenweg,,,,way
