@@ -9,7 +9,9 @@ Blumenstraße,wikidata,,Q886167,way
 "Bregenzer Weg",wikidata,,Q1737,way
 Brehmweg,wikidata,,Q67302038,way
 Bundschuhstraße,wikidata,,Q786772,way
+Elisenstraße,wikidata,,Q17524931,way
 "Elsasser Straße",wikidata,,Q1142,way
+Emilienstraße,wikidata,,Q16275679,way
 Girlitzweg,wikidata,,Q271807,way
 "Gmünder Straße",wikidata,,Q660580,way
 Grimmstraße,wikidata,,Q2793,way
@@ -24,6 +26,7 @@ Münzmeisterstraße,wikidata,,Q15836089,way
 Paul-Schwarze-Straße,wikidata,,Q66051597,way
 Peter-Schmoll-Straße,wikidata,,Q55018575,way
 "Pfaffendorfer Straße",wikidata,,Q2082080,way
+"Platz des Friedens",wikidata,,Q454,way
 "Prager Straße",wikidata,,Q1085,relation+way
 Rathausplatz,wikidata,,Q1980363,way
 Ritzenbergstraße,wikidata,,Q67638055,way
@@ -46,6 +49,7 @@ Wilhelm-Bölsche-Straße,wikidata,,Q99220843,way
 1,,,,way
 "1, Kreuzringel",,,,way
 "1. Steinweg",,,,way
+10,,,,way
 "10 / Halbmond",,,,way
 2,,,,way
 3,,,,way
@@ -55,7 +59,6 @@ Wilhelm-Bölsche-Straße,wikidata,,Q99220843,way
 7,,,,way
 8,,,,way
 9,,,,way
-10,,,,way
 11,,,,way
 12,,,,way
 13,,,,way
@@ -580,7 +583,6 @@ Bergweg,,,,way
 "Berzdorfer Straße",,,,way
 Beskidenstraße,,,,way
 Bielatalweg,,,,way
-Bienerttunnel,,,,way
 Bierweg,,,,way
 "Binger Straße",,,,way
 Binsenweg,,,,way
@@ -804,7 +806,6 @@ Elbstraße,,,,way
 Elbtalblick,,,,way
 Elbvillenweg,,,,way
 Elchweg,,,,way
-Elisenstraße,,,,way
 Elsternstraße,,,,way
 Elsterweg,,,,way
 "Elsterwerdaer Straße",,,,way
@@ -914,6 +915,8 @@ Fünfbrunnenweg,,,,way
 Fürstenallee,,,,way
 "Fürstenhainer Straße",,,,way
 "Fürstenwalder Straße",,,,way
+Fussweg,,,,way
+Fußweg,,,,way
 G-Flügel,,,,way
 Gabel,,,,way
 Gabelweg,,,,way
@@ -1327,6 +1330,7 @@ Königsweg,,,,way
 Konkordienplatz,,,,way
 Konkordienstraße,,,,way
 Kopernikushügel,,,,way
+"Koreanischer Platz",,,,way
 Korianderweg,,,,way
 Kornblumenweg,,,,way
 "Kötitzer Straße",,,,way
@@ -1746,7 +1750,6 @@ Planstraße,,,,way
 Plantagenweg,,,,way
 Platanenstraße,,,,way
 Plattleite,,,,way
-"Platz des Friedens",,,,way
 "Plauenscher Ring",,,,way
 Plumpenbusch,,,,way
 "Podemuser Hauptstraße",,,,way
@@ -2222,6 +2225,7 @@ Viktoriastraße,,,,way
 Vogelstellerweg,,,,way
 Vogelzipfel,,,,way
 Vogesenweg,,,,way
+Volker-Behrend-Steig,,,,way
 "Volkersdorfer Sandweg",,,,way
 "Volkersdorfer Straße",,,,way
 "Volkersdorfer Weg",,,,way
@@ -2393,6 +2397,7 @@ Zschonergrund,,,,way
 Zschonergrundstraße,,,,way
 Zschonergrundweg,,,,way
 "Zu den Weiden",,,,way
+"Zugang WIL-C",,,,way
 Zughübelstraße,,,,way
 "Zum Birkhübel",,,,way
 "Zum Dorfblick",,,,way

@@ -106,6 +106,7 @@ Ulrichstraße,wikidata,F,Q2063827,way
 Valeria-Kratina-Weg,wikidata,F,Q59601762,way
 Walpurgisstraße,wikidata,F,Q61649,way
 Wilhelmine-Reichard-Ring,wikidata,F,Q87410,way
+Lili-Elbe-Straße,wikidata,FX,Q1140735,way
 Abbestraße,wikidata,M,Q76359,way
 Ackermannstraße,wikidata,M,Q102103,way
 Adalbert-Stifter-Weg,wikidata,M,Q168542,way
@@ -548,7 +549,6 @@ Lewickistraße,wikidata,M,Q1819440,way
 Lichtenbergweg,wikidata,M,Q57554,way
 Liebigstraße,wikidata,M,Q16571,way
 Liebknechtstraße,wikidata,M,Q75886,way
-Lili-Elbe-Straße,wikidata,M,Q1598478,way
 Lilienthalstraße,wikidata,M,Q57162,way
 Lindenaustraße,wikidata,M,Q73063,way
 Lipsius-Weg,wikidata,M,Q96786,way
@@ -856,7 +856,6 @@ Zahnsgasse,csv,+,,way
 Zieglerstraße,csv,+,,way
 Elisabethstraße,csv,F,,way
 Else-Sander-Straße,csv,F,,way
-Emilienstraße,csv,F,,way
 Haenel-Clauß-Platz,csv,F,,way
 Hegerstraße,csv,F,,way
 Laurinstraße,csv,F,,way
