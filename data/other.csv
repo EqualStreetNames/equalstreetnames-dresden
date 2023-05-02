@@ -49,9 +49,11 @@ Wilhelm-Bölsche-Straße,wikidata,,Q99220843,way
 1,,,,way
 "1, Kreuzringel",,,,way
 "1. Steinweg",,,,way
-10,,,,way
 "10 / Halbmond",,,,way
+"14 / Diebsteig",,,,way
 2,,,,way
+"2 Sandy Hlls",,,,way
+"2. Steinweg",,,,way
 3,,,,way
 4,,,,way
 5,,,,way
@@ -59,18 +61,16 @@ Wilhelm-Bölsche-Straße,wikidata,,Q99220843,way
 7,,,,way
 8,,,,way
 9,,,,way
+10,,,,way
 11,,,,way
 12,,,,way
 13,,,,way
 14,,,,way
-"14 / Diebsteig",,,,way
 15,,,,way
 16,,,,way
 17,,,,way
 18,,,,way
 19,,,,way
-"2 Sandy Hlls",,,,way
-"2. Steinweg",,,,way
 A,,,,way
 A-Weg,,,,way
 "Aachener Straße",,,,way
@@ -695,7 +695,6 @@ Cäcilienstraße,,,,way
 Chausseehausstraße,,,,way
 "Chemnitzer Straße",,,,way
 Chrysanthemenweg,,,,way
-"City Center Passage",,,,way
 Collmweg,,,,way
 "Colmnitzer Straße",,,,way
 Comeniusstraße,,,,way
@@ -1407,6 +1406,7 @@ Lärchenstraße,,,,way
 "Laubegaster Weg",,,,way
 "Lauensteiner Straße",,,,way
 Laurabrücke,,,,way
+Lausa,,,,way
 "Lausaer Höhe",,,,way
 "Lausaer Kirchgasse",,,,way
 "Lausaer Straße",,,,way
@@ -1712,6 +1712,7 @@ Parkstraße,,,,way
 Parkweg,,,,way
 "Passage Königstraße",,,,way
 "Passauer Straße",,,,way
+Paul-Gerhardt-Strasse,,,,way
 Paul-Scholze-Weg,,,,way
 Paulstraße,,,,way
 "Pennricher Feldrain",,,,way
@@ -2260,6 +2261,7 @@ Wallstraße,,,,way
 Walterweg,,,,way
 Wanderweg,,,,way
 "Warnemünder Straße",,,,way
+Wartburgstrasse,,,,way
 Wartburgstraße,,,,way
 "Warthaer Straße",,,,way
 Wasastraße,,,,way
