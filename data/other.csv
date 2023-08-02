@@ -1,5 +1,6 @@
 name,source,gender,wikidata,type
 Alnpeckstraße,wikidata,,Q1486838,way
+Alpenstraße,wikidata,,Q1286,way
 "Am Beutlerpark",wikidata,,Q1641385;Q19835432,way
 "Am Lucknerpark",wikidata,,Q1873692,way
 "An der Post",wikidata,,Q110197108,way
@@ -90,7 +91,6 @@ Albrechtshöhe,,,,way
 Alemannenstraße,,,,way
 Alexanderstraße,,,,way
 Alleegasse,,,,way
-Alpenstraße,,,,way
 Alsenstraße,,,,way
 "Alt-Leuteritzer Ring",,,,way
 Altbriesnitz,,,,way
@@ -1717,7 +1717,6 @@ Parkstraße,,,,way
 Parkweg,,,,way
 "Passage Königstraße",,,,way
 "Passauer Straße",,,,way
-Paul-Gerhardt-Strasse,,,,way
 Paul-Scholze-Weg,,,,way
 Paulstraße,,,,way
 "Pennricher Feldrain",,,,way
@@ -2033,7 +2032,6 @@ Siedlungsstraße,,,,way
 Sierksplatz,,,,way
 Silberfund,,,,way
 Silbertalweg,,,,way
-"Snake Trail 1",,,,way
 "Snake Trail 2.0",,,,way
 "SnakeTrail 2.0",,,,way
 "Sobrigauer Weg",,,,way
@@ -2268,7 +2266,6 @@ Wallstraße,,,,way
 Walterweg,,,,way
 Wanderweg,,,,way
 "Warnemünder Straße",,,,way
-Wartburgstrasse,,,,way
 Wartburgstraße,,,,way
 "Warthaer Straße",,,,way
 Wasastraße,,,,way
