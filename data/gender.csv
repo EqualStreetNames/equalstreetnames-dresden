@@ -1,5 +1,7 @@
 name,source,gender,wikidata,type
 Geschwister-Scholl-Straße,wikidata,+,Q57820;Q76972,way
+Pohlandplatz,wikidata,+,Q23041790;Q131418394,way
+Else-Ulich-Beil-Straße,wikidata,?,Q1333723;Q21209,way
 Agnes-Smedley-Straße,wikidata,F,Q394649,way
 Agneshöhe,wikidata,F,Q89314073,way
 Amalie-Dietrich-Platz,wikidata,F,Q76851,way
@@ -8,6 +10,7 @@ Angelikastraße,wikidata,F,Q123098,way
 Anna-Angermann-Straße,wikidata,F,Q89039854,way
 Anne-Frank-Straße,wikidata,F,Q4583,way
 Auguste-Lazar-Straße,wikidata,F,Q766691,way
+Auguste-Lewinsohn-Str.,wikidata,F,Q106031343,way
 Barbarastraße,wikidata,F,Q192816,way
 Beilstraße,wikidata,F,Q114753789,way
 Bertha-Dißmann-Straße,wikidata,F,Q15429760,way
@@ -35,6 +38,7 @@ Elsa-Brändström-Straße,wikidata,F,Q469673,way
 Erna-Berger-Straße,wikidata,F,Q289895,way
 Erna-Sack-Straße,wikidata,F,Q72186,way
 Etha-Richter-Straße,wikidata,F,Q1371080,way
+Eva-Büttner-Straße,wikidata,F,Q21415821,way
 Eva-Schulze-Knabe-Straße,wikidata,F,Q97467,way
 Fanny-Lewald-Straße,wikidata,F,Q77318,way
 Franziska-Tiburtius-Straße,wikidata,F,Q98358,way
@@ -78,7 +82,6 @@ Marta-Fraenkel-Straße,wikidata,F,Q1333092,way
 Mary-Krebs-Straße,wikidata,F,Q1906325,way
 Mary-Wigman-Straße,wikidata,F,Q77127,way
 Mathildenstraße,wikidata,F,Q62284,way
-Maxie-Wander-Straße,wikidata,F,Q89932,way
 Melitta-Bentz-Straße,wikidata,F,Q76655,way
 Melli-Beese-Straße,wikidata,F,Q97003,way
 Merianplatz,wikidata,F,Q62530,way
@@ -203,6 +206,7 @@ Bruno-Bürgel-Straße,wikidata,M,Q104253,way
 Buchnerstraße,wikidata,M,Q2059034,way
 Bulgakowstraße,wikidata,M,Q835,way
 Bünauplatz,wikidata,M,Q213829,way
+Bünaustraße,wikidata,M,Q213829,way
 Bunsenstraße,wikidata,M,Q71031,way
 Burgkstraße,wikidata,M,Q709085,way
 Burgsdorffstraße,wikidata,M,Q84573856,way
@@ -362,11 +366,15 @@ Goetzplatz,wikidata,M,Q1405324,way
 Gottfried-Keller-Platz,wikidata,M,Q122370,way
 Gotthardt-Kuehl-Straße,wikidata,M,Q879198,way
 Grillparzerplatz,wikidata,M,Q154438,way
+Grillparzerstraße,wikidata,M,Q154438,way
 Gröbelstraße,wikidata,M,Q21543968,way
+Grohmannstraße,wikidata,M,Q130419186,way
 Gudehusstraße,wikidata,M,Q1597428,way
 Guerickestraße,wikidata,M,Q60095,way
 Güntzplatz,wikidata,M,Q1714508,way
+Güntzstraße,wikidata,M,Q1714508,way
 Gustav-Adolf-Platz,wikidata,M,Q52938,way
+Gustav-Adolf-Straße,wikidata,M,Q52938,way
 Gustav-Freytag-Straße,wikidata,M,Q58811,way
 Gustav-Hartmann-Straße,wikidata,M,Q91561,way
 Gustav-Richter-Straße,wikidata,M,Q17315580,way
@@ -408,6 +416,7 @@ Hauptmannstraße,wikidata,M,Q60908,way
 Havemannstraße,wikidata,M,Q76625,way
 Haydnstraße,wikidata,M,Q7349,way
 Hebbelplatz,wikidata,M,Q57182,way
+Hebbelstraße,wikidata,M,Q57182,way
 Heinrich-Bauer-Straße,wikidata,M,Q1596663,way
 Heinrich-Cotta-Straße,wikidata,M,Q66785,way
 Heinrich-Greif-Straße,wikidata,M,Q105796,way
@@ -456,6 +465,7 @@ Homiliusstraße,wikidata,M,Q451484,way
 Hottenrothstraße,wikidata,M,Q15455106,way
 Hubertusplatz,wikidata,M,Q159834,way
 Hüblerplatz,wikidata,M,Q805614,way
+Hüblerstraße,wikidata,M,Q805614,way
 Hübnerstraße,wikidata,M,Q668099,way
 Hugo-Bürkner-Straße,wikidata,M,Q1272832,way
 Hugo-Hickmann-Straße,wikidata,M,Q1110166,way
@@ -540,6 +550,7 @@ Leiblstraße,wikidata,M,Q704661,way
 Leibnizstraße,wikidata,M,Q9047,way
 Lenbachstraße,wikidata,M,Q585323,way
 Lennéplatz,wikidata,M,Q65910,way
+Lennéstraße,wikidata,M,Q65910,way
 Leon-Pohle-Straße,wikidata,M,Q1818898,way
 Leonardo-da-Vinci-Straße,wikidata,M,Q762,way
 Leonhard-Frank-Straße,wikidata,M,Q77069,way
@@ -553,6 +564,7 @@ Liebigstraße,wikidata,M,Q16571,way
 Liebknechtstraße,wikidata,M,Q75886,way
 Lilienthalstraße,wikidata,M,Q57162,way
 Lindenaustraße,wikidata,M,Q73063,way
+Lingnerallee,wikidata,M,Q125103,way
 Lipsius-Weg,wikidata,M,Q96786,way
 Lipsiusstraße,wikidata,M,Q96786,way
 Liststraße,wikidata,M,Q159917,way
@@ -575,6 +587,7 @@ Ludwig-Richter-Straße,wikidata,M,Q551896,way
 Ludwigstraße,wikidata,M,Q15440027,way
 Manfred-Streubel-Weg,wikidata,M,Q1889999,way
 Manfred-von-Ardenne-Ring,wikidata,M,Q70999,way
+Manitiusstraße,wikidata,M,Q94942065,way
 Marschnerstraße,wikidata,M,Q160063,way
 Martin-Andersen-Nexö-Straße,wikidata,M,Q168569,way
 Martin-Luther-Platz,wikidata,M,Q9554,way
@@ -613,6 +626,7 @@ Neubertstraße,wikidata,M,Q30968847,way
 Nicodéstraße,wikidata,M,Q878610,way
 Nicolaistraße,wikidata,M,Q107852,way
 Nieritzstraße,wikidata,M,Q1519404,way
+O.-F.-Weidling-Straße,wikidata,M,Q2007282,way
 Oehmestraße,wikidata,M,Q1357997,way
 Oeserstraße,wikidata,M,Q215129,way
 Olbrichtplatz,wikidata,M,Q57408,way
@@ -655,7 +669,6 @@ Pfeifferhannsstraße,wikidata,M,Q1598478,way
 Pfotenhauerstraße,wikidata,M,Q2574471,way
 Pisendelstraße,wikidata,M,Q508635,way
 Pochmannstraße,wikidata,M,Q1371818,way
-Pohlandplatz,wikidata,M,Q23041790,way
 Pohlandstraße,wikidata,M,Q23041790,way
 Polenzstraße,wikidata,M,Q1914148,way
 Pöppelmannstraße,wikidata,M,Q62637,way
@@ -666,6 +679,7 @@ Prof.-Billroth-Straße,wikidata,M,Q77242,way
 Professor-Ricker-Straße,wikidata,M,Q107492,way
 Professor-von-Finck-Straße,wikidata,M,Q94761758,way
 Putjatinplatz,wikidata,M,Q875907,way
+Putjatinstraße,wikidata,M,Q875907,way
 Quandtstraße,wikidata,M,Q86950,way
 Rabenerstraße,wikidata,M,Q72691,way
 Raimundstraße,wikidata,M,Q45025,way
@@ -690,6 +704,7 @@ Richard-Strauss-Platz,wikidata,M,Q13894,way
 Richard-Wagner-Straße,wikidata,M,Q1511,way
 Riegelplatz,wikidata,M,Q101953,way
 Rietschelstraße,wikidata,M,Q515914,way
+Rietschelweg,wikidata,M,Q515914,way
 Rietzstraße,wikidata,M,Q63745,way
 Rittershausstraße,wikidata,M,Q2448408,way
 Robert-Blum-Straße,wikidata,M,Q214977,way
@@ -730,11 +745,13 @@ Schenkendorfstraße,wikidata,M,Q71616,way
 Schillerplatz,wikidata,M,Q22670,way
 Schillerstraße,wikidata,M,Q22670,way
 Schillingplatz,wikidata,M,Q314567,way
+Schillingstraße,wikidata,M,Q314567,way
 Schinkelstraße,wikidata,M,Q151759,way
 Schleiermacherstraße,wikidata,M,Q76576,way
 Schlömilchstraße,wikidata,M,Q65178,way
 Schnorrstraße,wikidata,M,Q703458,way
 Schoberstraße,wikidata,M,Q99033195,way
+Schönbergstraße,wikidata,M,Q1539668,way
 Schongauerstraße,wikidata,M,Q155575,way
 Schopenhauerstraße,wikidata,M,Q38193,way
 Schreberstraße,wikidata,M,Q153160,way
@@ -813,6 +830,7 @@ Waldmüllerstraße,wikidata,M,Q97223,way
 Wallotstraße,wikidata,M,Q77357,way
 Walter-Arnold-Straße,wikidata,M,Q1427499,way
 Waltherstraße,wikidata,M,Q28366166,way
+Wasastraße,wikidata,M,Q472635,way
 Washingtonstraße,wikidata,M,Q23,way
 Weberplatz,wikidata,M,Q154812,way
 Weinligstraße,wikidata,M,Q2637760,way
@@ -839,6 +857,7 @@ Williamstraße,wikidata,M,Q109663375,way
 Winckelmannstraße,wikidata,M,Q57280,way
 Wittenstraße,wikidata,M,Q1583155,way
 Wöhlerstraße,wikidata,M,Q58575,way
+Wolfgang-Mischnick-Str.,wikidata,M,Q90837,way
 Wüllnerstraße,wikidata,M,Q819749,way
 Wunderlichstraße,wikidata,M,Q93878143,way
 Wundtstraße,wikidata,M,Q75814,way
@@ -892,7 +911,6 @@ Fritz-Arndt-Platz,csv,M,,way
 Gebauerstraße,csv,M,,way
 Geblerstraße,csv,M,,way
 Georg-Kühne-Straße,csv,M,,way
-Grohmannstraße,csv,M,,way
 Großmannstraße,csv,M,,way
 Gustav-Merbitz-Straße,csv,M,,way
 Gustav-Voigt-Straße,csv,M,,way
@@ -924,7 +942,6 @@ Leumerstraße,csv,M,,way
 Leuschkestraße,csv,M,,way
 Liehrstraße,csv,M,,way
 Louis-Köhler-Weg,csv,M,,way
-Manitiusstraße,csv,M,,way
 Max-Grahl-Straße,csv,M,,way
 Max-Hünig-Straße,csv,M,,way
 Max-Schwan-Straße,csv,M,,way
