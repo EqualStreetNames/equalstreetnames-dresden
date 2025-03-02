@@ -113,7 +113,7 @@ Bergbahnstraße,wikidata,,Q314571,way
 Berggartenstraße,wikidata,,Q1434274,way
 Bergstraße,wikidata,,Q8502,way
 Bergweg,wikidata,,Q894173,way
-"Berliner Straße",wikidata,,Q64,way
+"Berliner Straße",wikidata,,Q132853098,way
 Bernerstraße,wikidata,,Q15647274,way
 "Berzdorfer Straße",wikidata,,Q829322,way
 Beskidenstraße,wikidata,,Q215573,way
@@ -188,6 +188,7 @@ Eigenheimstraße,wikidata,,Q1307276,way
 "Eisenstädter Weg",wikidata,,Q126321,way
 Elbbrückenstraße,wikidata,,Q567518,way
 Elbhangblick,wikidata,,Q1258508,way
+Elbtalblick,wikidata,,Q314741,way
 Elisenstraße,wikidata,,Q17524931,way
 "Elsasser Straße",wikidata,,Q1142,way
 Elsternstraße,wikidata,,Q25307,way
@@ -689,6 +690,7 @@ Wachtelweg,wikidata,,Q28358,way
 "Wahnsdorfer Straße",wikidata,,Q1754470,way
 "Waldheimer Straße",wikidata,,Q71154,way
 Waldparkstraße,wikidata,,Q2541772,way
+Waldschlößchenbrücke,wikidata,,Q58200006,way
 Wallgäßchen,wikidata,,Q1258495,way
 "Warnemünder Straße",wikidata,,Q311849,way
 Wartburgstraße,wikidata,,Q151545,way
@@ -754,7 +756,10 @@ Zughübelstraße,wikidata,,Q30500165,way
 "1, Kreuzringel",,,,way
 "1. Steinweg",,,,way
 "10 / Halbmond",,,,way
+"14 / Diebsteig",,,,way
 2,,,,way
+"2 Sandy Hlls",,,,way
+"2. Steinweg",,,,way
 3,,,,way
 4,,,,way
 5,,,,way
@@ -767,14 +772,11 @@ Zughübelstraße,wikidata,,Q30500165,way
 12,,,,way
 13,,,,way
 14,,,,way
-"14 / Diebsteig",,,,way
 15,,,,way
 16,,,,way
 17,,,,way
 18,,,,way
 19,,,,way
-"2 Sandy Hlls",,,,way
-"2. Steinweg",,,,way
 A,,,,way
 A-Weg,,,,way
 Achtbeeteweg,,,,way
@@ -1374,6 +1376,7 @@ Flurstraße,,,,way
 Förstereistraße,,,,way
 "Forsthaus Baumwiese",,,,way
 Forsthausstraße,,,,way
+"Forstmeister Vogel Weg",,,,way
 Forstmeister-Vogel-Weg,,,,way
 Forststraße,,,,way
 Forsythienstraße,,,,way
@@ -1941,6 +1944,7 @@ Pfingstrosenweg,,,,way
 "Pillnitz-Moritzburger Weg",,,,way
 "Pillnitz-Moritzburger Weg / Hämmerchen",,,,way
 "Pillnitzer Landstraße",,,,way
+"Pillnitzer Weg",,,,way
 "Pirnaer Straße",,,,way
 "Pirnaischer Platz",,,,way
 Planstraße,,,,way
@@ -2297,7 +2301,6 @@ Waisenhausstraße,,,,way
 Waldblick,,,,way
 Waldhausstraße,,,,way
 Waldhofstraße,,,,way
-Waldschlößchenbrücke,,,,way
 Waldschlößchenstraße,,,,way
 Waldschlößchentunnel,,,,way
 Waldstraße,,,,way
@@ -2368,6 +2371,7 @@ Wolfsgasse,,,,way
 Wolfszug,,,,way
 "Wormser Platz",,,,way
 "Wurgwitzer Landstraße",,,,way
+Wurzelweg,,,,way
 "Wurzener Straße",,,,way
 Zachengrundring,,,,way
 Zachenweg,,,,way
