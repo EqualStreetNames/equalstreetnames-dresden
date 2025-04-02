@@ -188,7 +188,6 @@ Eigenheimstraße,wikidata,,Q1307276,way
 "Eisenstädter Weg",wikidata,,Q126321,way
 Elbbrückenstraße,wikidata,,Q567518,way
 Elbhangblick,wikidata,,Q1258508,way
-Elbtalblick,wikidata,,Q314741,way
 Elisenstraße,wikidata,,Q17524931,way
 "Elsasser Straße",wikidata,,Q1142,way
 Elsternstraße,wikidata,,Q25307,way
@@ -585,6 +584,7 @@ Saxoniastraße,wikidata,,Q323203,way
 "Schandauer Straße",wikidata,,Q6406,way
 Scharfensteinstraße,wikidata,,Q2231275,way
 "Schellerhauer Weg",wikidata,,Q1375693,way
+Schelsberg,wikidata,,Q133459554,way
 Schloßplatz,wikidata,,Q167314,way
 Schloßstraße,wikidata,,Q167314,way
 "Schmiedeberger Straße",wikidata,,Q8239,way
@@ -758,15 +758,6 @@ Zughübelstraße,wikidata,,Q30500165,way
 "10 / Halbmond",,,,way
 "14 / Diebsteig",,,,way
 2,,,,way
-"2 Sandy Hlls",,,,way
-"2. Steinweg",,,,way
-3,,,,way
-4,,,,way
-5,,,,way
-6,,,,way
-7,,,,way
-8,,,,way
-9,,,,way
 10,,,,way
 11,,,,way
 12,,,,way
@@ -777,6 +768,15 @@ Zughübelstraße,wikidata,,Q30500165,way
 17,,,,way
 18,,,,way
 19,,,,way
+"2 Sandy Hlls",,,,way
+"2. Steinweg",,,,way
+3,,,,way
+4,,,,way
+5,,,,way
+6,,,,way
+7,,,,way
+8,,,,way
+9,,,,way
 A,,,,way
 A-Weg,,,,way
 Achtbeeteweg,,,,way
@@ -1145,7 +1145,6 @@ Auenweg,,,,way
 "Auf der Scholle",,,,way
 "Aufgang Lingnerschloß",,,,way
 "Aufstieg zur Ludensruh",,,,way
-Augustusweg,,,,way
 Ava-Maria-Steig,,,,way
 B,,,,way
 B6n,,,,way
@@ -1901,7 +1900,7 @@ Oberringel,,,,way
 "Oberwarthaer Straße",,,,way
 Ochsenkopf,,,,way
 Ochsensteig,,,,way
-"Ochsensteig; 6",,,,way
+"Ochsensteig über Schneise 6",,,,way
 "Ockerwitzer Dorfstraße",,,,way
 "Ockerwitzer Straße",,,,way
 "Ockerwitzer Weg",,,,way
@@ -2075,7 +2074,6 @@ Schäferstraße,,,,way
 Schänkenweg,,,,way
 Schanzenstraße,,,,way
 "Scharfenberger Straße",,,,way
-Schelsberg,,,,way
 Schelsstraße,,,,way
 Schelsweg,,,,way
 Schere,,,,way
