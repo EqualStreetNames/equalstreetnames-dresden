@@ -46,6 +46,7 @@ Friederike-Serre-Weg,wikidata,F,Q1457093,way
 Gertrud-Caspari-Straße,wikidata,F,Q1515542,way
 Gret-Palucca-Straße,wikidata,F,Q441984,way
 Hedwig-Langner-Weg,wikidata,F,Q104527583,way
+Hedwigstraße,wikidata,F,Q452932,way
 Helena-Rott-Straße,wikidata,F,Q94777535,way
 Henriette-Heber-Straße,wikidata,F,Q1529536,way
 Hertha-Lindner-Straße,wikidata,F,Q1614691,way
@@ -202,6 +203,7 @@ Brockhausstraße,wikidata,M,Q62851,way
 Brucknerstraße,wikidata,M,Q81752,way
 Brueghelstraße,wikidata,M,Q43270,way
 "Brühlsche Gasse",wikidata,M,Q214949,way
+Bruhmstraße,wikidata,M,Q134562617,way
 Bruno-Bürgel-Straße,wikidata,M,Q104253,way
 Buchnerstraße,wikidata,M,Q2059034,way
 Bulgakowstraße,wikidata,M,Q835,way
@@ -318,7 +320,7 @@ Friedrich-Bouché-Weg,wikidata,M,Q1458512,way
 Friedrich-Ebert-Straße,wikidata,M,Q2646,way
 Friedrich-Hegel-Straße,wikidata,M,Q9235,way
 Friedrich-Kind-Straße,wikidata,M,Q78246,way
-Friedrich-List-Platz,wikidata,M,Q159917,way
+Friedrich-List-Platz,wikidata,M,Q1336962;Q159917,way
 Friedrich-Press-Straße,wikidata,M,Q1461582,way
 Friedrich-Wieck-Straße,wikidata,M,Q440809,way
 Friedrich-Wilhelm-Pohle-Gasse,wikidata,M,Q1463158,way
@@ -896,7 +898,6 @@ Beckerstraße,csv,M,,way
 Bergerstraße,csv,M,,way
 Bibrachstraße,csv,M,,way
 Bobestraße,csv,M,,way
-Bruhmstraße,csv,M,,way
 Burckhardtstraße,csv,M,,way
 Büttigstraße,csv,M,,way
 Calberlastraße,csv,M,,way

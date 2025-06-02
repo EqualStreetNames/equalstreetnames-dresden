@@ -758,10 +758,7 @@ Zughübelstraße,wikidata,,Q30500165,way
 "1, Kreuzringel",,,,way
 "1. Steinweg",,,,way
 "10 / Halbmond",,,,way
-"14 / Diebsteig",,,,way
 2,,,,way
-"2 Sandy Hlls",,,,way
-"2. Steinweg",,,,way
 3,,,,way
 4,,,,way
 5,,,,way
@@ -774,11 +771,14 @@ Zughübelstraße,wikidata,,Q30500165,way
 12,,,,way
 13,,,,way
 14,,,,way
+"14 / Diebsteig",,,,way
 15,,,,way
 16,,,,way
 17,,,,way
 18,,,,way
 19,,,,way
+"2 Sandy Hlls",,,,way
+"2. Steinweg",,,,way
 A,,,,way
 A-Weg,,,,way
 Achtbeeteweg,,,,way
@@ -848,7 +848,7 @@ Altklotzsche,,,,way
 Altleuben,,,,way
 Altleubnitz,,,,way
 Altleutewitz,,,,way
-Altmarkt,,,,way
+Altmarkt,,,,relation+way
 Altmobschatz,,,,way
 Altmockritz,,,,way
 Altnickern,,,,way
@@ -1332,6 +1332,7 @@ Elbhangstraße,,,,way
 Elbstraße,,,,way
 Elbvillenweg,,,,way
 Elchweg,,,,way
+Emanuel-Goldberg-Platz,,,,way
 Engelweg,,,,way
 Erich-Hanisch-Straße,,,,way
 Erikaweg,,,,way
@@ -1792,6 +1793,7 @@ Malerstraße,,,,way
 Malterweg,,,,way
 Margeritenstraße,,,,way
 Margeritenweg,,,,way
+Marie-Montessori-Weg,,,,way
 Marienbrücke,,,,way
 Markt,,,,way
 Marktweg,,,,way
