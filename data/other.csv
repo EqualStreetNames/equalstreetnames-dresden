@@ -758,20 +758,13 @@ Zughübelstraße,wikidata,,Q30500165,way
 "1, Kreuzringel",,,,way
 "1. Steinweg",,,,way
 "10 / Halbmond",,,,way
+"14 / Diebsteig",,,,way
 2,,,,way
-3,,,,way
-4,,,,way
-5,,,,way
-6,,,,way
-7,,,,way
-8,,,,way
-9,,,,way
 10,,,,way
 11,,,,way
 12,,,,way
 13,,,,way
 14,,,,way
-"14 / Diebsteig",,,,way
 15,,,,way
 16,,,,way
 17,,,,way
@@ -779,6 +772,13 @@ Zughübelstraße,wikidata,,Q30500165,way
 19,,,,way
 "2 Sandy Hlls",,,,way
 "2. Steinweg",,,,way
+3,,,,way
+4,,,,way
+5,,,,way
+6,,,,way
+7,,,,way
+8,,,,way
+9,,,,way
 A,,,,way
 A-Weg,,,,way
 Achtbeeteweg,,,,way
@@ -1017,7 +1017,6 @@ Altwölfnitz,,,,way
 "Am Sportplatz",,,,way
 "Am Spritzenberg",,,,way
 "Am Stadtrand",,,,way
-"Am Staffelstein",,,,way
 "Am Steilhang",,,,way
 "Am Steinacker",,,,way
 "Am Steinberg",,,,way
@@ -1173,6 +1172,7 @@ Baumzeile,,,,way
 Beerenhut,,,,way
 "Beim Gräbchen",,,,way
 Bergfelderweg,,,,way
+Bergfrieden,,,,way
 Berggasse,,,,way
 "Berggießhübler Straße",,,,way
 Berggut,,,,way
@@ -1332,7 +1332,6 @@ Elbhangstraße,,,,way
 Elbstraße,,,,way
 Elbvillenweg,,,,way
 Elchweg,,,,way
-Emanuel-Goldberg-Platz,,,,way
 Engelweg,,,,way
 Erich-Hanisch-Straße,,,,way
 Erikaweg,,,,way
@@ -1673,7 +1672,7 @@ Königsplatz,,,,way
 Königswaldplatz,,,,way
 Königsweg,,,,way
 Konkordienplatz,,,,way
-Kopernikushügel,,,,way
+Kopernikusweg,,,,way
 "Koreanischer Platz",,,,way
 Korianderweg,,,,way
 Kornblumenweg,,,,way
@@ -2050,7 +2049,6 @@ Rothhäuserstraße,,,,way
 Rotkehlchenweg,,,,way
 Rudolfstraße,,,,way
 Rudolphweg,,,,way
-RuinenDH,,,,way
 "Runde 4",,,,way
 Ruscheweg,,,,way
 SW,,,,way
@@ -2451,5 +2449,4 @@ Zwergstraße,,,,way
 "Zwickauer Platz",,,,way
 "ehem. Todweg",,,,way
 "ehemalige Bergwerksbrücke",,,,way
-sternweg,,,,way
 "verlängerter C-Flügel",,,,way
