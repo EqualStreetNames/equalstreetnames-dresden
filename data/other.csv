@@ -1,12 +1,10 @@
 name,source,gender,wikidata,type
+"(zugänglicher Privatweg)",,,,way
 1,,,,way
 "1, Kreuzringel",,,,way
 "1. Steinweg",,,,way
 "10 / Halbmond",,,,way
-"14 / Diebsteig",,,,way
 2,,,,way
-"2 Sandy Hlls",,,,way
-"2. Steinweg",,,,way
 3,,,,way
 4,,,,way
 5,,,,way
@@ -19,11 +17,14 @@ name,source,gender,wikidata,type
 12,,,,way
 13,,,,way
 14,,,,way
+"14 / Diebsteig",,,,way
 15,,,,way
 16,,,,way
 17,,,,way
 18,,,,way
 19,,,,way
+"2 Sandy Hlls",,,,way
+"2. Steinweg",,,,way
 A,,,,way
 A-Weg,,,,way
 Achtbeeteweg,,,,way
@@ -497,7 +498,6 @@ Bürgerstraße,,,,way
 Buschweg,,,,way
 Bussardweg,,,,way
 C,,,,way
-"C / Hämmerchen",,,,way
 "C / Kreuz 6",,,,way
 "C; Mühlweg",,,,way
 Cäcilienstraße,,,,way
@@ -585,7 +585,6 @@ Erntegäßchen,,,,way
 "Eschdorfer Weg",,,,way
 Eschengrundweg,,,,way
 Espenstraße,,,,way
-F,,,,way
 F-Flügel,,,,way
 Fährgasse,,,,way
 Fährgäßchen,,,,way
@@ -835,7 +834,6 @@ Industriestraße,,,,way
 Inselblick,,,,way
 Inselstraße,,,,way
 Institutsgasse,,,,way
-"Interimstraße Tolkewitz-Laubegast",,,,way
 Isfriedstraße,,,,way
 Jagdflügel,,,,way
 Jagdweg,,,,way
@@ -858,7 +856,6 @@ Kameradenweg,,,,way
 Kamillenweg,,,,way
 Kanalweg,,,,way
 Kannenhenkel,,,,way
-"Kannenhenkel / Alte 2",,,,way
 Kapellenweg,,,,way
 Karpatenstraße,,,,way
 Karschmühlenblick,,,,way
@@ -1021,7 +1018,6 @@ Lugturmweg,,,,way
 Lukasplatz,,,,way
 Lupinenweg,,,,way
 Lynchschlucht,,,,way
-MP,,,,way
 Magazinstraße,,,,way
 "Magdeburger Straße",,,,way
 Maiglöckchenweg,,,,way
@@ -1076,6 +1072,7 @@ Moränenende,,,,way
 Mordgrundbrücke,,,,way
 Morgenleite,,,,way
 Morgensonne,,,,way
+"Moritzburg-Pillnitzer Weg",,,,way
 "Moritzburger Landstraße",,,,way
 "Moritzburger Platz",,,,way
 "Moritzburger Straße",,,,way
@@ -1093,7 +1090,6 @@ Münzteichweg,,,,way
 "Nach dem Rainchen",,,,way
 "Nach dem Wirtschaftsweg",,,,way
 Nachtflügel,,,,way
-"Nachtflügel / A",,,,way
 Nachtflügelweg,,,,way
 Narzissenhang,,,,way
 Narzissenweg,,,,way
@@ -1375,7 +1371,6 @@ Seitenstraße,,,,way
 "Selliner Straße",,,,way
 Seminarstraße,,,,way
 Semmelweg,,,,way
-"Semmelweg / Kreuz 5",,,,way
 "Serkowitzer Straße",,,,way
 "Seußlitzer Straße",,,,way
 "Siebenbürgener Straße",,,,way
@@ -1518,6 +1513,7 @@ Ursus-Steig,,,,way
 Verbindungssteig,,,,way
 "Verkehrte Gabel",,,,way
 "Verkehrter Anker",,,,way
+"Verkehrter Ankersmoothness=intermediate",,,,way
 Veteranenstraße,,,,way
 Viehbotsche,,,,way
 Vierbeeteweg,,,,way
@@ -1680,10 +1676,12 @@ Zschonergrundweg,,,,way
 "Zur Wetterwarte",,,,way
 "Zur Ziegelwiese",,,,way
 Zwanzigerstraße,,,,way
+Zweienweg,,,,way
 "Zweiter Hutungsweg",,,,way
 "Zweiter Mittelweg",,,,way
 Zwergstraße,,,,way
 "Zwickauer Platz",,,,way
 "ehem. Todweg",,,,way
 "ehemalige Bergwerksbrücke",,,,way
+"ehemalige Pionierschanze",,,,way
 "verlängerter C-Flügel",,,,way
