@@ -3,8 +3,12 @@ name,source,gender,wikidata,type
 1,,,,way
 "1, Kreuzringel",,,,way
 "1. Steinweg",,,,way
+10,,,,way
 "10 / Halbmond",,,,way
+"14 / Diebsteig",,,,way
 2,,,,way
+"2 Sandy Hlls",,,,way
+"2. Steinweg",,,,way
 3,,,,way
 4,,,,way
 5,,,,way
@@ -12,19 +16,15 @@ name,source,gender,wikidata,type
 7,,,,way
 8,,,,way
 9,,,,way
-10,,,,way
 11,,,,way
 12,,,,way
 13,,,,way
 14,,,,way
-"14 / Diebsteig",,,,way
 15,,,,way
 16,,,,way
 17,,,,way
 18,,,,way
 19,,,,way
-"2 Sandy Hlls",,,,way
-"2. Steinweg",,,,way
 A,,,,way
 A-Weg,,,,way
 Achtbeeteweg,,,,way
@@ -1333,7 +1333,11 @@ Schmiedeweg,,,,way
 "Schmilkaer Straße",,,,way
 Schneebergstraße,,,,way
 "Schneiders Delle",,,,way
+"Schneise 1",,,,way
+"Schneise 3",,,,way
+"Schneise 6",,,,way
 "Schneise 7",,,,way
+"Schneise 9",,,,way
 Scholzweg,,,,way
 "Schönaer Straße",,,,way
 Schönbrunnstraße,,,,way
