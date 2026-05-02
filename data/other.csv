@@ -3,7 +3,6 @@ name,source,gender,wikidata,type
 1,,,,way
 "1, Kreuzringel",,,,way
 "1. Steinweg",,,,way
-10,,,,way
 "10 / Halbmond",,,,way
 "14 / Diebsteig",,,,way
 2,,,,way
@@ -16,6 +15,7 @@ name,source,gender,wikidata,type
 7,,,,way
 8,,,,way
 9,,,,way
+10,,,,way
 11,,,,way
 12,,,,way
 13,,,,way
@@ -489,7 +489,6 @@ Brunnenweg,,,,way
 Buchenhain,,,,way
 Buchenstraße,,,,way
 "Buchholzer Straße",,,,way
-"Budapester Straße",,,,way
 "Bühlauer Schützensteig",,,,way
 Buhnenstraße,,,,way
 "Bunte Ecke",,,,way
@@ -1030,6 +1029,7 @@ Margeritenweg,,,,way
 Marie-Montessori-Weg,,,,way
 Marienbrücke,,,,way
 Markt,,,,way
+"Marktbereich auf dem Alaunplatz",,,,way
 Marktweg,,,,way
 Markusplatz,,,,way
 Markusstraße,,,,way
@@ -1313,6 +1313,7 @@ Schanzenstraße,,,,way
 Schelsstraße,,,,way
 Schelsweg,,,,way
 Schere,,,,way
+"Scheune Vorplatz",,,,way
 Scheunenhofstraße,,,,way
 Schießgasse,,,,way
 Schilfteichstraße,,,,way
@@ -1522,6 +1523,7 @@ Veteranenstraße,,,,way
 Viehbotsche,,,,way
 Vierbeeteweg,,,,way
 Vierlinden,,,,way
+Viktoriastraße,,,,way
 Vogelsteig,,,,way
 Vogelzipfel,,,,way
 Volker-Behrend-Steig,,,,way
