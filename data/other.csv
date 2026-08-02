@@ -3,9 +3,19 @@ name,source,gender,wikidata,type
 1,,,,way
 "1, Kreuzringel",,,,way
 "1. Steinweg",,,,way
+10,,,,way
 "10 / Halbmond",,,,way
-"14 / Diebsteig",,,,way
 2,,,,way
+11,,,,way
+12,,,,way
+13,,,,way
+14,,,,way
+"14 / Diebsteig",,,,way
+15,,,,way
+16,,,,way
+17,,,,way
+18,,,,way
+19,,,,way
 "2 Sandy Hlls",,,,way
 "2. Steinweg",,,,way
 3,,,,way
@@ -15,16 +25,6 @@ name,source,gender,wikidata,type
 7,,,,way
 8,,,,way
 9,,,,way
-10,,,,way
-11,,,,way
-12,,,,way
-13,,,,way
-14,,,,way
-15,,,,way
-16,,,,way
-17,,,,way
-18,,,,way
-19,,,,way
 A,,,,way
 A-Weg,,,,way
 Achtbeeteweg,,,,way
@@ -222,6 +222,7 @@ Altwölfnitz,,,,way
 "Am Nöthnitzgrund",,,,way
 "Am Olter",,,,way
 "Am Osterberg",,,,way
+"Am Ostravorwerk",,,,way
 "Am Park",,,,way
 "Am Parkplatz",,,,way
 "Am Pfaffenberg",,,,way
@@ -519,7 +520,6 @@ Dammweg,,,,way
 Dampfschiffstraße,,,,way
 Diebsteig,,,,way
 "Diebsteig / 18",,,,way
-Diebsweg,,,,way
 Diebweg,,,,way
 Dienstgehsteig,,,,way
 "Dippelsdorfer Straße",,,,way
@@ -1328,7 +1328,6 @@ Schlehenstraße,,,,way
 "Schleswiger Straße",,,,way
 "Schlottwitzer Straße",,,,way
 Schlucht,,,,way
-Schluppe,,,,way
 "Schmaler Weg",,,,way
 Schmalwiesenstraße,,,,way
 Schmiedeweg,,,,way
@@ -1336,6 +1335,8 @@ Schmiedeweg,,,,way
 Schneebergstraße,,,,way
 "Schneiders Delle",,,,way
 "Schneise 1",,,,way
+"Schneise 27",,,,way
+"Schneise 28",,,,way
 "Schneise 3",,,,way
 "Schneise 6",,,,way
 "Schneise 7",,,,way
