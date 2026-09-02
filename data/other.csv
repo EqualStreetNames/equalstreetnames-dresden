@@ -3,19 +3,9 @@ name,source,gender,wikidata,type
 1,,,,way
 "1, Kreuzringel",,,,way
 "1. Steinweg",,,,way
-10,,,,way
 "10 / Halbmond",,,,way
-2,,,,way
-11,,,,way
-12,,,,way
-13,,,,way
-14,,,,way
 "14 / Diebsteig",,,,way
-15,,,,way
-16,,,,way
-17,,,,way
-18,,,,way
-19,,,,way
+2,,,,way
 "2 Sandy Hlls",,,,way
 "2. Steinweg",,,,way
 3,,,,way
@@ -25,6 +15,16 @@ name,source,gender,wikidata,type
 7,,,,way
 8,,,,way
 9,,,,way
+10,,,,way
+11,,,,way
+12,,,,way
+13,,,,way
+14,,,,way
+15,,,,way
+16,,,,way
+17,,,,way
+18,,,,way
+19,,,,way
 A,,,,way
 A-Weg,,,,way
 Achtbeeteweg,,,,way
@@ -495,7 +495,7 @@ Buchenstraße,,,,way
 Buhnenstraße,,,,way
 "Bunte Ecke",,,,way
 Bürgerstraße,,,,way
-"Burgker Straße (1)",,,,way
+"Burgker Straße",,,,way
 Buschweg,,,,way
 Bussardweg,,,,way
 C,,,,way
@@ -1030,7 +1030,6 @@ Margeritenweg,,,,way
 Marie-Montessori-Weg,,,,way
 Marienbrücke,,,,way
 Markt,,,,way
-"Marktbereich auf dem Alaunplatz",,,,way
 Marktweg,,,,way
 Markusplatz,,,,way
 Markusstraße,,,,way
@@ -1284,10 +1283,10 @@ Rothhäuserstraße,,,,way
 Rotkehlchenweg,,,,way
 Rudolfstraße,,,,way
 Rudolphweg,,,,way
+Ruhesteg,,,,way
 "Runde 4",,,,way
 "Runde Vier",,,,way
 Ruscheweg,,,,way
-SW,,,,way
 Sachsenplatz,,,,way
 Sachsenstiege,,,,way
 Sachsenwerkstraße,,,,way
