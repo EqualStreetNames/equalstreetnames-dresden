@@ -6,8 +6,6 @@ name,source,gender,wikidata,type
 "10 / Halbmond",,,,way
 "14 / Diebsteig",,,,way
 2,,,,way
-"2 Sandy Hlls",,,,way
-"2. Steinweg",,,,way
 3,,,,way
 4,,,,way
 5,,,,way
@@ -25,6 +23,8 @@ name,source,gender,wikidata,type
 17,,,,way
 18,,,,way
 19,,,,way
+"2 Sandy Hlls",,,,way
+"2. Steinweg",,,,way
 A,,,,way
 A-Weg,,,,way
 Achtbeeteweg,,,,way
@@ -797,11 +797,6 @@ Hirtenweg,,,,way
 "Hochwasserschutzbecken Kaitzbach 2",,,,way
 Hockeyweg,,,,way
 Hocksteinstraße,,,,way
-"Hof der Elemente",,,,way
-"Hof der Fabelwesen",,,,way
-"Hof der Metamorphosen",,,,way
-"Hof der Tiere",,,,way
-"Hof des Lichts",,,,way
 Hofmühlenstraße,,,,way
 Hofwiesenstraße,,,,way
 "Hohe Leite",,,,way
@@ -943,7 +938,6 @@ Kuhschwanz,,,,way
 Kunitzteichweg,,,,way
 Kunsthandwerkerpassagen,,,,way
 Kunsthandwerkpassagen,,,,way
-Kunsthofpassage,,,,way
 Kuntschberg,,,,way
 "Kunzer Marktweg",,,,way
 Kurgartenstraße,,,,way
@@ -1393,7 +1387,6 @@ Silbertalweg,,,,way
 "Söbrigener Straße",,,,way
 "Söbrigener Weg",,,,way
 Sonnenallee,,,,way
-Sonnenhof,,,,way
 Sonnenhügel,,,,way
 Sonnenlehne,,,,way
 Sonnenleite,,,,way
@@ -1555,6 +1548,12 @@ Weberweg,,,,way
 "Weg 2",,,,way
 "Weg 3",,,,way
 "Weg 4",,,,way
+"Weg 5",,,,way
+"Weg 6",,,,way
+"Weg 7",,,,way
+"Weg A",,,,way
+"Weg B",,,,way
+"Weg C",,,,way
 "Weg der Sinne",,,,way
 "Wehrsdorfer Straße",,,,way
 Weidentalstraße,,,,way
@@ -1690,4 +1689,5 @@ Zwergstraße,,,,way
 "ehem. Todweg",,,,way
 "ehemalige Bergwerksbrücke",,,,way
 "ehemalige Pionierschanze",,,,way
+"kurzer Weg 4",,,,way
 "verlängerter C-Flügel",,,,way
